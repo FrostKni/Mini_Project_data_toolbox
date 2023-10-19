@@ -11,17 +11,14 @@ import java.util.List;
 public class display_info {
 
     public Table t;
-    public Object[] info_column(String loc)
+    public Object[] info_column(Table t)
     {
-
-        t = Table.read().csv(loc);
 
         return t.columnNames().toArray();
 
     }
-    public Object[][] info_data(String loc)
+    public Object[][] info_data(Table t)
     {
-        t = Table.read().csv(loc);
         int numRows = t.rowCount();
         int numCols = t.columnCount();
         Object[][] dataArray = new Object[numRows][numCols];
