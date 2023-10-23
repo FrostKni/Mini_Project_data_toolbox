@@ -1,15 +1,18 @@
 package Gui;
+import Preprocessing.Handling_missing_value.replace_central_tendency;
 import Preprocessing.Loding_file;
 import Preprocessing.data_profiling.profiling;
 import Preprocessing.display_info;
 import com.google.common.io.Files;
 import com.ibm.icu.impl.UResource;
+import tech.tablesaw.api.NumericColumn;
 import tech.tablesaw.api.Table;
 
 import java.awt.*;
 import java.awt.event.*;
 import java.io.File;
 import java.util.Arrays;
+import java.util.List;
 import java.util.StringJoiner;
 import javax.swing.*;
 import javax.swing.table.DefaultTableModel;
@@ -20,10 +23,11 @@ import javax.swing.table.TableModel;
 public class Main_Screen extends JFrame implements ActionListener {
 
     public JLabel lable;
+
+    public JTextArea dis ;
     public JTable main_table;
     public Table dataframe;
     public Container contain;
-
     public JComboBox<String> p2,p;
     public  Font f,fo,font,table_font;
     public JPanel main_panel,display_panel,table_panel,table_chile_panel;
@@ -31,6 +35,8 @@ public class Main_Screen extends JFrame implements ActionListener {
 
     public  String location_of_file="null";
     public JComboBox<String> choose;
+    private JPanel display_child_panel;
+
     public void Main_Scr()
     {
 
@@ -104,9 +110,26 @@ public class Main_Screen extends JFrame implements ActionListener {
         setResizable(false);
         setLocation(200,0);
 
-        JTextArea dis ;
+        //////////////////////////////////////////////////////////
+        // display screen with scolling
+        display_child_panel = new JPanel();
+        display_child_panel.setBorder(BorderFactory.createLineBorder(Color.black,2));
+
         dis = new display_screen().display();
-        display_panel.add(dis);
+        dis.setFont(table_font);
+        display_child_panel.add(dis);
+
+        JScrollPane scroll_dis = new JScrollPane(display_child_panel);
+        scroll_dis.setLayout(new ScrollPaneLayout());
+        scroll_dis.setLocation(5,5);
+        scroll_dis.setHorizontalScrollBarPolicy(JScrollPane.HORIZONTAL_SCROLLBAR_ALWAYS);
+        scroll_dis.setVerticalScrollBarPolicy(JScrollPane.VERTICAL_SCROLLBAR_ALWAYS);
+        scroll_dis.setSize(720,580);
+        scroll_dis.setAutoscrolls(true);
+        scroll_dis.getPreferredSize();
+        scroll_dis.setViewportView(dis);
+        display_panel.add(scroll_dis,BorderLayout.CENTER);
+
 
         ////////////////////////////////////////////
 
@@ -152,6 +175,7 @@ public class Main_Screen extends JFrame implements ActionListener {
                 main_table.getRowHeight() * main_table.getRowCount()));
 
 
+       ////////////////////////////////////// display panel
 
 
 
@@ -283,6 +307,72 @@ public class Main_Screen extends JFrame implements ActionListener {
                                 p2.setEnabled(true);
                                 p2.setEditable(false);
                                 main_panel.add(p2);
+
+
+                                p2.addActionListener(new ActionListener() {
+                                    @Override
+                                    public void actionPerformed(ActionEvent e) {
+                                        if(p2.getSelectedItem()== "Mean")
+                                        {
+                                            // updating table with mean values
+                                            replace_central_tendency mena_cal = new replace_central_tendency();
+                                            dataframe=mena_cal.replace_mean(dataframe);
+
+                                            // getting column and their mean values
+                                            List<Double> mean_values = mena_cal.get_mean();
+                                            NumericColumn<?>[] numeric_colums = mena_cal.get_numeric_column();
+
+                                            // displaying
+                                            dis.append("COLUMNS --------> MEAN \n");
+                                            for (int i=0;i<mean_values.size();i++)
+                                            {
+                                                dis.append(String.valueOf(numeric_colums[i])+"---------->"+ mean_values.get(i)+"\n");
+                                            }
+
+                                            // creating data model for the table
+                                            DefaultTableModel model = new DefaultTableModel(new display_info().info_data(dataframe),new display_info().info_column(dataframe));
+                                            main_table.setModel(model);
+                                            new zoom();
+
+                                        }
+
+                                        if(p2.getSelectedItem()== "Median")
+                                        {
+                                            replace_central_tendency median_cal = new replace_central_tendency();
+                                            dataframe=median_cal.replace_median(dataframe);
+
+                                            List<Double> median_values = median_cal.get_median();
+                                            NumericColumn<?>[] numeric_colums = median_cal.get_numeric_column();
+
+//                                            dis.setText("COLUMNS: \n"+Arrays.toString(numeric_colums)+"\nMedians: \n"+median_values.toString());
+                                            dis.append("COLUMNS --------> MEDIAN \n");
+                                            for (int i=0;i<median_values.size();i++)
+                                            {
+                                                dis.append(String.valueOf(numeric_colums[i])+"---------->"+ median_values.get(i)+"\n");
+                                            }
+
+                                            DefaultTableModel model = new DefaultTableModel(new display_info().info_data(dataframe),new display_info().info_column(dataframe));
+                                            main_table.setModel(model);
+                                            new zoom();
+
+                                        }
+
+
+
+
+
+
+
+
+
+
+                                    }
+                                });
+
+
+
+
+
                             }
                         }
                     });

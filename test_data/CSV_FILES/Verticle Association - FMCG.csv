@@ -1,0 +1,2897 @@
+BillId,Product,Type,amount
+1,Amul Butter,Perishable,1
+1,Vijay Cheese,Perishable,1
+1,Venky's Chicken Sausage,Perishable,1
+1,Dinshaws 1 Ltr Ice Cream,Perishable,1
+1,Dinshaws 2 Litre Milk,Perishable,1
+1,Sunflower Oil 5 Ltr,Perishable,1
+1,1 Ltr Lichi Squash,Perishable,1
+1,Mango Juice 2 Ltr,Perishable,2
+1,Amul Butter 1 KG,Perishable,2
+1,Cottage Cheese Pack 1 KG,Perishable,2
+1,Singh's Ham 50 gms,Perishable,1
+1,Pepsi 2 Ltr,Perishable,1
+1,Coca Cola 2 Ltr,Perishable,1
+1,Chicken 2 KG Pack,Perishable,1
+1,Onion 5 Kg Pack,Perishable,3
+1,Potato 5 Kg Pack,Perishable,3
+1,Mushroom 250 gm Pack,Perishable,3
+1,Haldiram Snack 200 Gms,Perishable,1
+1,Domestos 5 ltr,Non-Perishable,1
+1,Sasa Washing Soap - 2 Pack,Non-Perishable,1
+1,Car Wax - 1 ltr,Non-Perishable,1
+1,Scrubber 1 pack,Non-Perishable,1
+1,Non-Stick Frying Pan,Non-Perishable,2
+1,Bucket 20 Ltr,Non-Perishable,1
+1,Handbag Laced,Non-Perishable,1
+1,Belt 36 Inch,Non-Perishable,1
+2,Amul Butter,Perishable,1
+2,Vijay Cheese,Perishable,1
+2,Venky's Chicken Sausage,Perishable,2
+2,Dinshaws 1 Ltr Ice Cream,Perishable,3
+2,Dinshaws 2 Litre Milk,Perishable,1
+2,Sunflower Oil 5 Ltr,Perishable,2
+2,1 Ltr Lichi Squash,Perishable,1
+2,Mango Juice 2 Ltr,Perishable,1
+2,Amul Butter 1 KG,Perishable,1
+2,Cottage Cheese Pack 1 KG,Perishable,1
+2,Singh's Ham 50 gms,Perishable,1
+2,Pepsi 2 Ltr,Perishable,1
+2,Coca Cola 2 Ltr,Perishable,1
+2,Chicken 2 KG Pack,Perishable,1
+2,Onion 5 Kg Pack,Perishable,2
+2,Potato 5 Kg Pack,Perishable,2
+2,Mushroom 250 gm Pack,Perishable,2
+2,Haldiram Snack 200 Gms,Perishable,1
+2,Domestos 5 ltr,Non-Perishable,1
+2,Sasa Washing Soap - 2 Pack,Non-Perishable,1
+2,Car Wax - 1 ltr,Non-Perishable,1
+2,Scrubber 1 pack,Non-Perishable,3
+2,Non-Stick Frying Pan,Non-Perishable,3
+2,Bucket 20 Ltr,Non-Perishable,3
+2,Handbag Laced,Non-Perishable,1
+3,Amul Butter,Perishable,1
+3,Vijay Cheese,Perishable,1
+3,Venky's Chicken Sausage,Perishable,1
+3,Dinshaws 1 Ltr Ice Cream,Perishable,1
+3,Dinshaws 2 Litre Milk,Perishable,2
+3,Sunflower Oil 5 Ltr,Perishable,1
+3,1 Ltr Lichi Squash,Perishable,1
+3,Mango Juice 2 Ltr,Perishable,1
+3,Amul Butter 1 KG,Perishable,1
+3,Cottage Cheese Pack 1 KG,Perishable,1
+3,Singh's Ham 50 gms,Perishable,2
+3,Pepsi 2 Ltr,Perishable,3
+3,Coca Cola 2 Ltr,Perishable,1
+3,Chicken 2 KG Pack,Perishable,2
+3,Onion 5 Kg Pack,Perishable,1
+3,Potato 5 Kg Pack,Perishable,2
+3,Mushroom 250 gm Pack,Perishable,3
+3,Haldiram Snack 200 Gms,Perishable,1
+3,Domestos 5 ltr,Non-Perishable,2
+3,Sasa Washing Soap - 2 Pack,Non-Perishable,1
+3,Car Wax - 1 ltr,Non-Perishable,1
+3,Scrubber 1 pack,Non-Perishable,1
+3,Non-Stick Frying Pan,Non-Perishable,1
+3,Bucket 20 Ltr,Non-Perishable,1
+4,Amul Butter,Perishable,1
+4,Vijay Cheese,Perishable,1
+4,Venky's Chicken Sausage,Perishable,1
+4,Dinshaws 1 Ltr Ice Cream,Perishable,2
+4,Dinshaws 2 Litre Milk,Perishable,2
+4,Sunflower Oil 5 Ltr,Perishable,2
+4,1 Ltr Lichi Squash,Perishable,1
+4,Mango Juice 2 Ltr,Perishable,1
+4,Amul Butter 1 KG,Perishable,1
+4,Cottage Cheese Pack 1 KG,Perishable,1
+4,Singh's Ham 50 gms,Perishable,3
+4,Pepsi 2 Ltr,Perishable,3
+4,Coca Cola 2 Ltr,Perishable,3
+4,Chicken 2 KG Pack,Perishable,1
+4,Onion 5 Kg Pack,Perishable,1
+4,Potato 5 Kg Pack,Perishable,1
+4,Mushroom 250 gm Pack,Perishable,1
+4,Haldiram Snack 200 Gms,Perishable,1
+4,Domestos 5 ltr,Non-Perishable,2
+4,Sasa Washing Soap - 2 Pack,Non-Perishable,1
+4,Car Wax - 1 ltr,Non-Perishable,1
+4,Scrubber 1 pack,Non-Perishable,1
+4,Non-Stick Frying Pan,Non-Perishable,1
+5,Amul Butter,Perishable,1
+5,Vijay Cheese,Perishable,2
+5,Venky's Chicken Sausage,Perishable,3
+5,Dinshaws 1 Ltr Ice Cream,Perishable,1
+5,Dinshaws 2 Litre Milk,Perishable,2
+5,Sunflower Oil 5 Ltr,Perishable,1
+5,1 Ltr Lichi Squash,Perishable,2
+5,Mango Juice 2 Ltr,Perishable,3
+5,Amul Butter 1 KG,Perishable,1
+5,Cottage Cheese Pack 1 KG,Perishable,2
+5,Singh's Ham 50 gms,Perishable,1
+5,Pepsi 2 Ltr,Perishable,1
+5,Coca Cola 2 Ltr,Perishable,1
+5,Chicken 2 KG Pack,Perishable,1
+5,Onion 5 Kg Pack,Perishable,1
+5,Potato 5 Kg Pack,Perishable,1
+5,Mushroom 250 gm Pack,Perishable,1
+5,Haldiram Snack 200 Gms,Perishable,1
+5,Domestos 5 ltr,Non-Perishable,2
+5,Sasa Washing Soap - 2 Pack,Non-Perishable,1
+5,Car Wax - 1 ltr,Non-Perishable,1
+5,Scrubber 1 pack,Non-Perishable,1
+6,Amul Butter,Perishable,1
+6,Vijay Cheese,Perishable,1
+6,Venky's Chicken Sausage,Perishable,1
+6,Dinshaws 1 Ltr Ice Cream,Perishable,1
+6,Dinshaws 2 Litre Milk,Perishable,2
+6,Sunflower Oil 5 Ltr,Perishable,2
+6,1 Ltr Lichi Squash,Perishable,2
+6,Mango Juice 2 Ltr,Perishable,1
+6,Amul Butter 1 KG,Perishable,1
+6,Cottage Cheese Pack 1 KG,Perishable,1
+6,Singh's Ham 50 gms,Perishable,1
+6,Pepsi 2 Ltr,Perishable,3
+6,Coca Cola 2 Ltr,Perishable,1
+6,Chicken 2 KG Pack,Perishable,1
+6,Onion 5 Kg Pack,Perishable,1
+6,Potato 5 Kg Pack,Perishable,1
+6,Mushroom 250 gm Pack,Perishable,1
+6,Haldiram Snack 200 Gms,Perishable,2
+6,Domestos 5 ltr,Non-Perishable,1
+6,Sasa Washing Soap - 2 Pack,Non-Perishable,1
+6,Car Wax - 1 ltr,Non-Perishable,1
+7,Amul Butter,Perishable,1
+7,Vijay Cheese,Perishable,1
+7,Venky's Chicken Sausage,Perishable,2
+7,Dinshaws 1 Ltr Ice Cream,Perishable,3
+7,Dinshaws 2 Litre Milk,Perishable,1
+7,Sunflower Oil 5 Ltr,Perishable,2
+7,1 Ltr Lichi Squash,Perishable,1
+7,Mango Juice 2 Ltr,Perishable,1
+7,Amul Butter 1 KG,Perishable,1
+7,Cottage Cheese Pack 1 KG,Perishable,1
+7,Singh's Ham 50 gms,Perishable,1
+7,Pepsi 2 Ltr,Perishable,1
+7,Coca Cola 2 Ltr,Perishable,1
+7,Chicken 2 KG Pack,Perishable,1
+7,Onion 5 Kg Pack,Perishable,2
+7,Potato 5 Kg Pack,Perishable,2
+7,Mushroom 250 gm Pack,Perishable,2
+7,Haldiram Snack 200 Gms,Perishable,1
+7,Domestos 5 ltr,Non-Perishable,1
+7,Sasa Washing Soap - 2 Pack,Non-Perishable,1
+8,Amul Butter,Perishable,1
+8,Vijay Cheese,Perishable,3
+8,Venky's Chicken Sausage,Perishable,3
+8,Dinshaws 1 Ltr Ice Cream,Perishable,3
+8,Dinshaws 2 Litre Milk,Perishable,1
+8,Sunflower Oil 5 Ltr,Perishable,1
+8,1 Ltr Lichi Squash,Perishable,1
+8,Mango Juice 2 Ltr,Perishable,1
+8,Amul Butter 1 KG,Perishable,1
+8,Cottage Cheese Pack 1 KG,Perishable,2
+8,Singh's Ham 50 gms,Perishable,1
+8,Pepsi 2 Ltr,Perishable,1
+8,Coca Cola 2 Ltr,Perishable,1
+8,Chicken 2 KG Pack,Perishable,1
+8,Onion 5 Kg Pack,Perishable,1
+8,Potato 5 Kg Pack,Perishable,2
+8,Mushroom 250 gm Pack,Perishable,3
+8,Haldiram Snack 200 Gms,Perishable,1
+8,Domestos 5 ltr,Non-Perishable,2
+8,Amul Butter,Perishable,1
+9,Vijay Cheese,Perishable,2
+9,Venky's Chicken Sausage,Perishable,3
+9,Dinshaws 1 Ltr Ice Cream,Perishable,1
+9,Dinshaws 2 Litre Milk,Perishable,2
+9,Sunflower Oil 5 Ltr,Perishable,1
+9,1 Ltr Lichi Squash,Perishable,1
+9,Mango Juice 2 Ltr,Perishable,1
+9,Amul Butter 1 KG,Perishable,1
+9,Cottage Cheese Pack 1 KG,Perishable,1
+9,Singh's Ham 50 gms,Perishable,1
+9,Pepsi 2 Ltr,Perishable,1
+9,Coca Cola 2 Ltr,Perishable,1
+9,Chicken 2 KG Pack,Perishable,2
+9,Onion 5 Kg Pack,Perishable,2
+9,Potato 5 Kg Pack,Perishable,2
+9,Mushroom 250 gm Pack,Perishable,1
+9,Haldiram Snack 200 Gms,Perishable,1
+10,Amul Butter,Perishable,1
+10,Vijay Cheese,Perishable,1
+10,Venky's Chicken Sausage,Perishable,3
+10,Dinshaws 1 Ltr Ice Cream,Perishable,3
+10,Dinshaws 2 Litre Milk,Perishable,3
+10,Sunflower Oil 5 Ltr,Perishable,1
+10,1 Ltr Lichi Squash,Perishable,1
+10,Mango Juice 2 Ltr,Perishable,1
+10,Amul Butter 1 KG,Perishable,1
+10,Cottage Cheese Pack 1 KG,Perishable,1
+10,Singh's Ham 50 gms,Perishable,2
+10,Pepsi 2 Ltr,Perishable,1
+10,Coca Cola 2 Ltr,Perishable,1
+10,Chicken 2 KG Pack,Perishable,1
+10,Onion 5 Kg Pack,Perishable,1
+10,Potato 5 Kg Pack,Perishable,1
+10,Mushroom 250 gm Pack,Perishable,2
+11,Amul Butter,Perishable,3
+11,Vijay Cheese,Perishable,1
+11,Venky's Chicken Sausage,Perishable,2
+11,Dinshaws 1 Ltr Ice Cream,Perishable,1
+11,Dinshaws 2 Litre Milk,Perishable,2
+11,Sunflower Oil 5 Ltr,Perishable,3
+11,1 Ltr Lichi Squash,Perishable,1
+11,Mango Juice 2 Ltr,Perishable,2
+11,Amul Butter 1 KG,Perishable,1
+11,Cottage Cheese Pack 1 KG,Perishable,1
+11,Singh's Ham 50 gms,Perishable,1
+11,Pepsi 2 Ltr,Perishable,1
+11,Coca Cola 2 Ltr,Perishable,1
+11,Chicken 2 KG Pack,Perishable,1
+11,Onion 5 Kg Pack,Perishable,1
+11,Potato 5 Kg Pack,Perishable,1
+12,Amul Butter,Perishable,2
+12,Vijay Cheese,Perishable,1
+12,Venky's Chicken Sausage,Perishable,1
+12,Dinshaws 1 Ltr Ice Cream,Perishable,1
+12,Dinshaws 2 Litre Milk,Perishable,1
+12,Sunflower Oil 5 Ltr,Perishable,1
+12,1 Ltr Lichi Squash,Perishable,1
+12,Mango Juice 2 Ltr,Perishable,1
+12,Amul Butter 1 KG,Perishable,2
+12,Cottage Cheese Pack 1 KG,Perishable,2
+12,Singh's Ham 50 gms,Perishable,2
+12,Pepsi 2 Ltr,Perishable,1
+12,Coca Cola 2 Ltr,Perishable,1
+12,Chicken 2 KG Pack,Perishable,1
+12,Onion 5 Kg Pack,Perishable,1
+13,Amul Butter,Perishable,3
+13,Vijay Cheese,Perishable,1
+13,Venky's Chicken Sausage,Perishable,1
+13,Dinshaws 1 Ltr Ice Cream,Perishable,1
+13,Dinshaws 2 Litre Milk,Perishable,1
+13,Sunflower Oil 5 Ltr,Perishable,1
+13,1 Ltr Lichi Squash,Perishable,2
+13,Mango Juice 2 Ltr,Perishable,1
+13,Amul Butter 1 KG,Perishable,1
+13,Cottage Cheese Pack 1 KG,Perishable,1
+13,Singh's Ham 50 gms,Perishable,1
+13,Pepsi 2 Ltr,Perishable,1
+13,Coca Cola 2 Ltr,Perishable,2
+13,Chicken 2 KG Pack,Perishable,3
+14,Amul Butter,Perishable,1
+14,Vijay Cheese,Perishable,2
+14,Venky's Chicken Sausage,Perishable,1
+14,Dinshaws 1 Ltr Ice Cream,Perishable,1
+14,Dinshaws 2 Litre Milk,Perishable,1
+14,Sunflower Oil 5 Ltr,Perishable,1
+14,1 Ltr Lichi Squash,Perishable,1
+14,Mango Juice 2 Ltr,Perishable,1
+14,Amul Butter 1 KG,Perishable,1
+14,Cottage Cheese Pack 1 KG,Perishable,1
+14,Singh's Ham 50 gms,Perishable,2
+14,Pepsi 2 Ltr,Perishable,2
+14,Coca Cola 2 Ltr,Perishable,2
+15,Amul Butter,Perishable,1
+15,Vijay Cheese,Perishable,1
+15,Venky's Chicken Sausage,Perishable,1
+15,Dinshaws 1 Ltr Ice Cream,Perishable,1
+15,Dinshaws 2 Litre Milk,Perishable,3
+15,Sunflower Oil 5 Ltr,Perishable,3
+15,1 Ltr Lichi Squash,Perishable,3
+15,Mango Juice 2 Ltr,Perishable,1
+15,Amul Butter 1 KG,Perishable,1
+15,Cottage Cheese Pack 1 KG,Perishable,1
+15,Singh's Ham 50 gms,Perishable,1
+15,Pepsi 2 Ltr,Perishable,1
+16,Amul Butter,Perishable,2
+16,Vijay Cheese,Perishable,1
+16,Venky's Chicken Sausage,Perishable,1
+16,Dinshaws 1 Ltr Ice Cream,Perishable,1
+16,Dinshaws 2 Litre Milk,Perishable,1
+16,Sunflower Oil 5 Ltr,Perishable,1
+16,1 Ltr Lichi Squash,Perishable,2
+16,Mango Juice 2 Ltr,Perishable,3
+16,Amul Butter 1 KG,Perishable,1
+16,Cottage Cheese Pack 1 KG,Perishable,2
+16,Singh's Ham 50 gms,Perishable,1
+17,Amul Butter,Perishable,2
+17,Vijay Cheese,Perishable,3
+17,Venky's Chicken Sausage,Perishable,1
+17,Dinshaws 1 Ltr Ice Cream,Perishable,2
+17,Dinshaws 2 Litre Milk,Perishable,1
+17,Sunflower Oil 5 Ltr,Perishable,1
+17,1 Ltr Lichi Squash,Perishable,1
+17,Mango Juice 2 Ltr,Perishable,1
+17,Amul Butter 1 KG,Perishable,1
+17,Cottage Cheese Pack 1 KG,Perishable,1
+17,Singh's Ham 50 gms,Perishable,1
+18,Amul Butter,Perishable,1
+18,Vijay Cheese,Perishable,2
+18,Venky's Chicken Sausage,Perishable,2
+18,Dinshaws 1 Ltr Ice Cream,Perishable,2
+18,Dinshaws 2 Litre Milk,Perishable,1
+18,Sunflower Oil 5 Ltr,Perishable,1
+18,1 Ltr Lichi Squash,Perishable,1
+18,Mango Juice 2 Ltr,Perishable,1
+18,Amul Butter 1 KG,Perishable,3
+18,Cottage Cheese Pack 1 KG,Perishable,3
+19,Amul Butter,Perishable,3
+19,Vijay Cheese,Perishable,1
+19,Venky's Chicken Sausage,Perishable,1
+19,Dinshaws 1 Ltr Ice Cream,Perishable,1
+19,Dinshaws 2 Litre Milk,Perishable,1
+19,Sunflower Oil 5 Ltr,Perishable,1
+19,1 Ltr Lichi Squash,Perishable,2
+19,Mango Juice 2 Ltr,Perishable,1
+19,Amul Butter 1 KG,Perishable,1
+20,Amul Butter,Perishable,1
+20,Vijay Cheese,Perishable,1
+20,Venky's Chicken Sausage,Perishable,1
+20,Dinshaws 1 Ltr Ice Cream,Perishable,2
+20,Dinshaws 2 Litre Milk,Perishable,3
+20,Sunflower Oil 5 Ltr,Perishable,1
+20,1 Ltr Lichi Squash,Perishable,2
+20,Mango Juice 2 Ltr,Perishable,1
+21,Amul Butter,Perishable,2
+21,Vijay Cheese,Perishable,3
+21,Venky's Chicken Sausage,Perishable,1
+21,Dinshaws 1 Ltr Ice Cream,Perishable,2
+21,Dinshaws 2 Litre Milk,Perishable,1
+21,Sunflower Oil 5 Ltr,Perishable,1
+21,1 Ltr Lichi Squash,Perishable,1
+22,Amul Butter,Perishable,1
+22,Vijay Cheese,Perishable,1
+22,Venky's Chicken Sausage,Perishable,1
+22,Dinshaws 1 Ltr Ice Cream,Perishable,1
+22,Dinshaws 2 Litre Milk,Perishable,1
+22,Sunflower Oil 5 Ltr,Perishable,2
+23,Amul Butter,Perishable,1
+23,Vijay Cheese,Perishable,1
+23,Venky's Chicken Sausage,Perishable,1
+23,Dinshaws 1 Ltr Ice Cream,Perishable,1
+23,Dinshaws 2 Litre Milk,Perishable,1
+24,Amul Butter,Perishable,1
+24,Vijay Cheese,Perishable,1
+24,Venky's Chicken Sausage,Perishable,2
+24,Dinshaws 1 Ltr Ice Cream,Perishable,1
+25,Amul Butter,Perishable,1
+25,Vijay Cheese,Perishable,1
+25,Venky's Chicken Sausage,Perishable,1
+26,Amul Butter,Perishable,1
+26,Vijay Cheese,Perishable,2
+27,Amul Butter,Perishable,1
+28,Amul Butter,Perishable,1
+28,Vijay Cheese,Perishable,1
+28,Venky's Chicken Sausage,Perishable,1
+28,Dinshaws 1 Ltr Ice Cream,Perishable,1
+28,Dinshaws 2 Litre Milk,Perishable,2
+28,Sunflower Oil 5 Ltr,Perishable,3
+28,1 Ltr Lichi Squash,Perishable,1
+28,Mango Juice 2 Ltr,Perishable,2
+28,Amul Butter 1 KG,Perishable,1
+28,Cottage Cheese Pack 1 KG,Perishable,1
+28,Singh's Ham 50 gms,Perishable,1
+28,Pepsi 2 Ltr,Perishable,1
+28,Coca Cola 2 Ltr,Perishable,1
+28,Chicken 2 KG Pack,Perishable,1
+28,Onion 5 Kg Pack,Perishable,1
+28,Potato 5 Kg Pack,Perishable,1
+28,Mushroom 250 gm Pack,Perishable,2
+28,Haldiram Snack 200 Gms,Perishable,2
+28,Domestos 5 ltr,Non-Perishable,2
+28,Sasa Washing Soap - 2 Pack,Non-Perishable,1
+28,Car Wax - 1 ltr,Non-Perishable,1
+28,Scrubber 1 pack,Non-Perishable,1
+28,Non-Stick Frying Pan,Non-Perishable,1
+28,Bucket 20 Ltr,Non-Perishable,3
+28,Handbag Laced,Non-Perishable,3
+28,Belt 36 Inch,Non-Perishable,3
+29,Amul Butter,Perishable,1
+29,Vijay Cheese,Perishable,1
+29,Venky's Chicken Sausage,Perishable,1
+29,Dinshaws 1 Ltr Ice Cream,Perishable,1
+29,Dinshaws 2 Litre Milk,Perishable,1
+29,Sunflower Oil 5 Ltr,Perishable,2
+29,1 Ltr Lichi Squash,Perishable,1
+29,Mango Juice 2 Ltr,Perishable,1
+29,Amul Butter 1 KG,Perishable,1
+29,Cottage Cheese Pack 1 KG,Perishable,1
+29,Singh's Ham 50 gms,Perishable,1
+29,Pepsi 2 Ltr,Perishable,2
+29,Coca Cola 2 Ltr,Perishable,3
+29,Chicken 2 KG Pack,Perishable,1
+29,Onion 5 Kg Pack,Perishable,2
+29,Potato 5 Kg Pack,Perishable,1
+29,Mushroom 250 gm Pack,Perishable,2
+29,Haldiram Snack 200 Gms,Perishable,3
+29,Domestos 5 ltr,Non-Perishable,1
+29,Sasa Washing Soap - 2 Pack,Non-Perishable,2
+29,Car Wax - 1 ltr,Non-Perishable,1
+29,Scrubber 1 pack,Non-Perishable,1
+29,Non-Stick Frying Pan,Non-Perishable,1
+29,Bucket 20 Ltr,Non-Perishable,1
+29,Handbag Laced,Non-Perishable,1
+30,Amul Butter,Perishable,1
+30,Vijay Cheese,Perishable,1
+30,Venky's Chicken Sausage,Perishable,1
+30,Dinshaws 1 Ltr Ice Cream,Perishable,2
+30,Dinshaws 2 Litre Milk,Perishable,2
+30,Sunflower Oil 5 Ltr,Perishable,2
+30,1 Ltr Lichi Squash,Perishable,1
+30,Mango Juice 2 Ltr,Perishable,1
+30,Amul Butter 1 KG,Perishable,1
+30,Cottage Cheese Pack 1 KG,Perishable,1
+30,Singh's Ham 50 gms,Perishable,3
+30,Pepsi 2 Ltr,Perishable,3
+30,Coca Cola 2 Ltr,Perishable,3
+30,Chicken 2 KG Pack,Perishable,1
+30,Onion 5 Kg Pack,Perishable,1
+30,Potato 5 Kg Pack,Perishable,1
+30,Mushroom 250 gm Pack,Perishable,1
+30,Haldiram Snack 200 Gms,Perishable,1
+30,Domestos 5 ltr,Non-Perishable,2
+30,Sasa Washing Soap - 2 Pack,Non-Perishable,1
+30,Car Wax - 1 ltr,Non-Perishable,1
+30,Scrubber 1 pack,Non-Perishable,1
+30,Non-Stick Frying Pan,Non-Perishable,1
+30,Bucket 20 Ltr,Non-Perishable,1
+31,Amul Butter,Perishable,2
+31,Vijay Cheese,Perishable,3
+31,Venky's Chicken Sausage,Perishable,1
+31,Dinshaws 1 Ltr Ice Cream,Perishable,2
+31,Dinshaws 2 Litre Milk,Perishable,1
+31,Sunflower Oil 5 Ltr,Perishable,2
+31,1 Ltr Lichi Squash,Perishable,3
+31,Mango Juice 2 Ltr,Perishable,1
+31,Amul Butter 1 KG,Perishable,2
+31,Cottage Cheese Pack 1 KG,Perishable,1
+31,Singh's Ham 50 gms,Perishable,1
+31,Pepsi 2 Ltr,Perishable,1
+31,Coca Cola 2 Ltr,Perishable,1
+31,Chicken 2 KG Pack,Perishable,1
+31,Onion 5 Kg Pack,Perishable,1
+31,Potato 5 Kg Pack,Perishable,1
+31,Mushroom 250 gm Pack,Perishable,1
+31,Haldiram Snack 200 Gms,Perishable,2
+31,Domestos 5 ltr,Non-Perishable,1
+31,Sasa Washing Soap - 2 Pack,Non-Perishable,1
+31,Car Wax - 1 ltr,Non-Perishable,1
+31,Scrubber 1 pack,Non-Perishable,1
+31,Non-Stick Frying Pan,Non-Perishable,1
+32,Amul Butter,Perishable,1
+32,Vijay Cheese,Perishable,1
+32,Venky's Chicken Sausage,Perishable,2
+32,Dinshaws 1 Ltr Ice Cream,Perishable,2
+32,Dinshaws 2 Litre Milk,Perishable,2
+32,Sunflower Oil 5 Ltr,Perishable,1
+32,1 Ltr Lichi Squash,Perishable,1
+32,Mango Juice 2 Ltr,Perishable,1
+32,Amul Butter 1 KG,Perishable,1
+32,Cottage Cheese Pack 1 KG,Perishable,3
+32,Singh's Ham 50 gms,Perishable,1
+32,Pepsi 2 Ltr,Perishable,1
+32,Coca Cola 2 Ltr,Perishable,1
+32,Chicken 2 KG Pack,Perishable,1
+32,Onion 5 Kg Pack,Perishable,1
+32,Potato 5 Kg Pack,Perishable,2
+32,Mushroom 250 gm Pack,Perishable,1
+32,Haldiram Snack 200 Gms,Perishable,1
+32,Domestos 5 ltr,Non-Perishable,1
+32,Sasa Washing Soap - 2 Pack,Non-Perishable,1
+32,Car Wax - 1 ltr,Non-Perishable,1
+32,Scrubber 1 pack,Non-Perishable,2
+33,Amul Butter,Perishable,3
+33,Vijay Cheese,Perishable,1
+33,Venky's Chicken Sausage,Perishable,2
+33,Dinshaws 1 Ltr Ice Cream,Perishable,1
+33,Dinshaws 2 Litre Milk,Perishable,1
+33,Sunflower Oil 5 Ltr,Perishable,1
+33,1 Ltr Lichi Squash,Perishable,1
+33,Mango Juice 2 Ltr,Perishable,1
+33,Amul Butter 1 KG,Perishable,1
+33,Cottage Cheese Pack 1 KG,Perishable,1
+33,Singh's Ham 50 gms,Perishable,1
+33,Pepsi 2 Ltr,Perishable,2
+33,Coca Cola 2 Ltr,Perishable,2
+33,Chicken 2 KG Pack,Perishable,2
+33,Onion 5 Kg Pack,Perishable,1
+33,Potato 5 Kg Pack,Perishable,1
+33,Mushroom 250 gm Pack,Perishable,1
+33,Haldiram Snack 200 Gms,Perishable,1
+33,Domestos 5 ltr,Non-Perishable,3
+33,Sasa Washing Soap - 2 Pack,Non-Perishable,3
+33,Car Wax - 1 ltr,Non-Perishable,3
+34,Amul Butter,Perishable,1
+34,Vijay Cheese,Perishable,1
+34,Venky's Chicken Sausage,Perishable,1
+34,Dinshaws 1 Ltr Ice Cream,Perishable,1
+34,Dinshaws 2 Litre Milk,Perishable,1
+34,Sunflower Oil 5 Ltr,Perishable,2
+34,1 Ltr Lichi Squash,Perishable,1
+34,Mango Juice 2 Ltr,Perishable,1
+34,Amul Butter 1 KG,Perishable,1
+34,Cottage Cheese Pack 1 KG,Perishable,1
+34,Singh's Ham 50 gms,Perishable,1
+34,Pepsi 2 Ltr,Perishable,2
+34,Coca Cola 2 Ltr,Perishable,3
+34,Chicken 2 KG Pack,Perishable,1
+34,Onion 5 Kg Pack,Perishable,2
+34,Potato 5 Kg Pack,Perishable,1
+34,Mushroom 250 gm Pack,Perishable,2
+34,Haldiram Snack 200 Gms,Perishable,3
+34,Domestos 5 ltr,Non-Perishable,1
+34,Sasa Washing Soap - 2 Pack,Non-Perishable,2
+35,Amul Butter,Perishable,1
+35,Vijay Cheese,Perishable,1
+35,Venky's Chicken Sausage,Perishable,1
+35,Dinshaws 1 Ltr Ice Cream,Perishable,1
+35,Dinshaws 2 Litre Milk,Perishable,1
+35,Sunflower Oil 5 Ltr,Perishable,1
+35,1 Ltr Lichi Squash,Perishable,1
+35,Mango Juice 2 Ltr,Perishable,1
+35,Amul Butter 1 KG,Perishable,2
+35,Cottage Cheese Pack 1 KG,Perishable,2
+35,Singh's Ham 50 gms,Perishable,2
+35,Pepsi 2 Ltr,Perishable,1
+35,Coca Cola 2 Ltr,Perishable,1
+35,Chicken 2 KG Pack,Perishable,1
+35,Onion 5 Kg Pack,Perishable,1
+35,Potato 5 Kg Pack,Perishable,3
+35,Mushroom 250 gm Pack,Perishable,3
+35,Haldiram Snack 200 Gms,Perishable,3
+35,Domestos 5 ltr,Non-Perishable,1
+35,Amul Butter,Perishable,1
+36,Vijay Cheese,Perishable,1
+36,Venky's Chicken Sausage,Perishable,1
+36,Dinshaws 1 Ltr Ice Cream,Perishable,1
+36,Dinshaws 2 Litre Milk,Perishable,2
+36,Sunflower Oil 5 Ltr,Perishable,1
+36,1 Ltr Lichi Squash,Perishable,1
+36,Mango Juice 2 Ltr,Perishable,1
+36,Amul Butter 1 KG,Perishable,1
+36,Cottage Cheese Pack 1 KG,Perishable,1
+36,Singh's Ham 50 gms,Perishable,2
+36,Pepsi 2 Ltr,Perishable,3
+36,Coca Cola 2 Ltr,Perishable,1
+36,Chicken 2 KG Pack,Perishable,2
+36,Onion 5 Kg Pack,Perishable,1
+36,Potato 5 Kg Pack,Perishable,2
+36,Mushroom 250 gm Pack,Perishable,3
+36,Haldiram Snack 200 Gms,Perishable,1
+37,Amul Butter,Perishable,2
+37,Vijay Cheese,Perishable,1
+37,Venky's Chicken Sausage,Perishable,1
+37,Dinshaws 1 Ltr Ice Cream,Perishable,1
+37,Dinshaws 2 Litre Milk,Perishable,1
+37,Sunflower Oil 5 Ltr,Perishable,1
+37,1 Ltr Lichi Squash,Perishable,1
+37,Mango Juice 2 Ltr,Perishable,1
+37,Amul Butter 1 KG,Perishable,1
+37,Cottage Cheese Pack 1 KG,Perishable,2
+37,Singh's Ham 50 gms,Perishable,1
+37,Pepsi 2 Ltr,Perishable,1
+37,Coca Cola 2 Ltr,Perishable,1
+37,Chicken 2 KG Pack,Perishable,1
+37,Onion 5 Kg Pack,Perishable,1
+37,Potato 5 Kg Pack,Perishable,1
+37,Mushroom 250 gm Pack,Perishable,1
+38,Amul Butter,Perishable,2
+38,Vijay Cheese,Perishable,2
+38,Venky's Chicken Sausage,Perishable,2
+38,Dinshaws 1 Ltr Ice Cream,Perishable,1
+38,Dinshaws 2 Litre Milk,Perishable,1
+38,Sunflower Oil 5 Ltr,Perishable,1
+38,1 Ltr Lichi Squash,Perishable,1
+38,Mango Juice 2 Ltr,Perishable,3
+38,Amul Butter 1 KG,Perishable,1
+38,Cottage Cheese Pack 1 KG,Perishable,1
+38,Singh's Ham 50 gms,Perishable,1
+38,Pepsi 2 Ltr,Perishable,1
+38,Coca Cola 2 Ltr,Perishable,1
+38,Chicken 2 KG Pack,Perishable,2
+38,Onion 5 Kg Pack,Perishable,1
+38,Potato 5 Kg Pack,Perishable,1
+39,Amul Butter,Perishable,1
+39,Vijay Cheese,Perishable,1
+39,Venky's Chicken Sausage,Perishable,1
+39,Dinshaws 1 Ltr Ice Cream,Perishable,2
+39,Dinshaws 2 Litre Milk,Perishable,3
+39,Sunflower Oil 5 Ltr,Perishable,1
+39,1 Ltr Lichi Squash,Perishable,2
+39,Mango Juice 2 Ltr,Perishable,1
+39,Amul Butter 1 KG,Perishable,1
+39,Cottage Cheese Pack 1 KG,Perishable,1
+39,Singh's Ham 50 gms,Perishable,1
+39,Pepsi 2 Ltr,Perishable,1
+39,Coca Cola 2 Ltr,Perishable,1
+39,Chicken 2 KG Pack,Perishable,1
+39,Onion 5 Kg Pack,Perishable,1
+40,Amul Butter,Perishable,2
+40,Vijay Cheese,Perishable,2
+40,Venky's Chicken Sausage,Perishable,2
+40,Dinshaws 1 Ltr Ice Cream,Perishable,1
+40,Dinshaws 2 Litre Milk,Perishable,1
+40,Sunflower Oil 5 Ltr,Perishable,1
+40,1 Ltr Lichi Squash,Perishable,1
+40,Mango Juice 2 Ltr,Perishable,3
+40,Amul Butter 1 KG,Perishable,3
+40,Cottage Cheese Pack 1 KG,Perishable,3
+40,Singh's Ham 50 gms,Perishable,1
+40,Pepsi 2 Ltr,Perishable,1
+40,Coca Cola 2 Ltr,Perishable,1
+40,Chicken 2 KG Pack,Perishable,1
+41,Amul Butter,Perishable,1
+41,Vijay Cheese,Perishable,2
+41,Venky's Chicken Sausage,Perishable,1
+41,Dinshaws 1 Ltr Ice Cream,Perishable,1
+41,Dinshaws 2 Litre Milk,Perishable,1
+41,Sunflower Oil 5 Ltr,Perishable,1
+41,1 Ltr Lichi Squash,Perishable,1
+41,Mango Juice 2 Ltr,Perishable,2
+41,Amul Butter 1 KG,Perishable,3
+41,Cottage Cheese Pack 1 KG,Perishable,1
+41,Singh's Ham 50 gms,Perishable,2
+41,Pepsi 2 Ltr,Perishable,1
+41,Coca Cola 2 Ltr,Perishable,2
+42,Amul Butter,Perishable,3
+42,Vijay Cheese,Perishable,1
+42,Venky's Chicken Sausage,Perishable,2
+42,Dinshaws 1 Ltr Ice Cream,Perishable,1
+42,Dinshaws 2 Litre Milk,Perishable,1
+42,Sunflower Oil 5 Ltr,Perishable,1
+42,1 Ltr Lichi Squash,Perishable,1
+42,Mango Juice 2 Ltr,Perishable,1
+42,Amul Butter 1 KG,Perishable,1
+42,Cottage Cheese Pack 1 KG,Perishable,1
+42,Singh's Ham 50 gms,Perishable,1
+42,Pepsi 2 Ltr,Perishable,2
+43,Amul Butter,Perishable,2
+43,Vijay Cheese,Perishable,2
+43,Venky's Chicken Sausage,Perishable,1
+43,Dinshaws 1 Ltr Ice Cream,Perishable,1
+43,Dinshaws 2 Litre Milk,Perishable,1
+43,Sunflower Oil 5 Ltr,Perishable,1
+43,1 Ltr Lichi Squash,Perishable,3
+43,Mango Juice 2 Ltr,Perishable,3
+43,Amul Butter 1 KG,Perishable,3
+43,Cottage Cheese Pack 1 KG,Perishable,1
+43,Singh's Ham 50 gms,Perishable,1
+44,Amul Butter,Perishable,1
+44,Vijay Cheese,Perishable,1
+44,Venky's Chicken Sausage,Perishable,1
+44,Dinshaws 1 Ltr Ice Cream,Perishable,2
+44,Dinshaws 2 Litre Milk,Perishable,1
+44,Sunflower Oil 5 Ltr,Perishable,1
+44,1 Ltr Lichi Squash,Perishable,1
+44,Mango Juice 2 Ltr,Perishable,1
+44,Amul Butter 1 KG,Perishable,1
+44,Cottage Cheese Pack 1 KG,Perishable,2
+44,Singh's Ham 50 gms,Perishable,3
+45,Amul Butter,Perishable,1
+45,Vijay Cheese,Perishable,2
+45,Venky's Chicken Sausage,Perishable,1
+45,Dinshaws 1 Ltr Ice Cream,Perishable,2
+45,Dinshaws 2 Litre Milk,Perishable,3
+45,Sunflower Oil 5 Ltr,Perishable,1
+45,1 Ltr Lichi Squash,Perishable,2
+45,Mango Juice 2 Ltr,Perishable,1
+45,Amul Butter 1 KG,Perishable,1
+45,Cottage Cheese Pack 1 KG,Perishable,1
+46,Amul Butter,Perishable,1
+46,Vijay Cheese,Perishable,1
+46,Venky's Chicken Sausage,Perishable,1
+46,Dinshaws 1 Ltr Ice Cream,Perishable,1
+46,Dinshaws 2 Litre Milk,Perishable,1
+46,Sunflower Oil 5 Ltr,Perishable,2
+46,1 Ltr Lichi Squash,Perishable,1
+46,Mango Juice 2 Ltr,Perishable,1
+46,Amul Butter 1 KG,Perishable,1
+47,Amul Butter,Perishable,1
+47,Vijay Cheese,Perishable,1
+47,Venky's Chicken Sausage,Perishable,1
+47,Dinshaws 1 Ltr Ice Cream,Perishable,1
+47,Dinshaws 2 Litre Milk,Perishable,2
+47,Sunflower Oil 5 Ltr,Perishable,1
+47,1 Ltr Lichi Squash,Perishable,1
+47,Mango Juice 2 Ltr,Perishable,1
+48,Amul Butter,Perishable,1
+48,Vijay Cheese,Perishable,1
+48,Venky's Chicken Sausage,Perishable,1
+48,Dinshaws 1 Ltr Ice Cream,Perishable,1
+48,Dinshaws 2 Litre Milk,Perishable,2
+48,Sunflower Oil 5 Ltr,Perishable,2
+48,1 Ltr Lichi Squash,Perishable,2
+49,Amul Butter,Perishable,1
+49,Vijay Cheese,Perishable,1
+49,Venky's Chicken Sausage,Perishable,1
+49,Dinshaws 1 Ltr Ice Cream,Perishable,1
+49,Dinshaws 2 Litre Milk,Perishable,3
+49,Sunflower Oil 5 Ltr,Perishable,3
+50,Amul Butter,Perishable,3
+50,Vijay Cheese,Perishable,1
+50,Venky's Chicken Sausage,Perishable,1
+50,Dinshaws 1 Ltr Ice Cream,Perishable,1
+50,Dinshaws 2 Litre Milk,Perishable,1
+51,Amul Butter,Perishable,1
+51,Vijay Cheese,Perishable,2
+51,Venky's Chicken Sausage,Perishable,1
+51,Dinshaws 1 Ltr Ice Cream,Perishable,1
+52,Amul Butter,Perishable,1
+52,Vijay Cheese,Perishable,1
+52,Venky's Chicken Sausage,Perishable,1
+53,Amul Butter,Perishable,2
+53,Vijay Cheese,Perishable,3
+54,Amul Butter,Perishable,1
+55,Amul Butter,Perishable,2
+55,Vijay Cheese,Perishable,1
+55,Venky's Chicken Sausage,Perishable,1
+55,Dinshaws 1 Ltr Ice Cream,Perishable,1
+55,Dinshaws 2 Litre Milk,Perishable,1
+55,Sunflower Oil 5 Ltr,Perishable,1
+55,1 Ltr Lichi Squash,Perishable,1
+55,Mango Juice 2 Ltr,Perishable,1
+55,Amul Butter 1 KG,Perishable,1
+55,Cottage Cheese Pack 1 KG,Perishable,2
+55,Singh's Ham 50 gms,Perishable,2
+55,Pepsi 2 Ltr,Perishable,2
+55,Coca Cola 2 Ltr,Perishable,1
+55,Chicken 2 KG Pack,Perishable,1
+55,Onion 5 Kg Pack,Perishable,1
+55,Potato 5 Kg Pack,Perishable,1
+55,Mushroom 250 gm Pack,Perishable,3
+55,Haldiram Snack 200 Gms,Perishable,3
+55,Domestos 5 ltr,Non-Perishable,3
+55,Sasa Washing Soap - 2 Pack,Non-Perishable,1
+55,Car Wax - 1 ltr,Non-Perishable,1
+55,Scrubber 1 pack,Non-Perishable,1
+55,Non-Stick Frying Pan,Non-Perishable,1
+55,Bucket 20 Ltr,Non-Perishable,1
+55,Handbag Laced,Non-Perishable,2
+55,Belt 36 Inch,Non-Perishable,1
+56,Amul Butter,Perishable,1
+56,Vijay Cheese,Perishable,1
+56,Venky's Chicken Sausage,Perishable,1
+56,Dinshaws 1 Ltr Ice Cream,Perishable,1
+56,Dinshaws 2 Litre Milk,Perishable,2
+56,Sunflower Oil 5 Ltr,Perishable,3
+56,1 Ltr Lichi Squash,Perishable,1
+56,Mango Juice 2 Ltr,Perishable,2
+56,Amul Butter 1 KG,Perishable,1
+56,Cottage Cheese Pack 1 KG,Perishable,2
+56,Singh's Ham 50 gms,Perishable,3
+56,Pepsi 2 Ltr,Perishable,1
+56,Coca Cola 2 Ltr,Perishable,2
+56,Chicken 2 KG Pack,Perishable,1
+56,Onion 5 Kg Pack,Perishable,1
+56,Potato 5 Kg Pack,Perishable,1
+56,Mushroom 250 gm Pack,Perishable,1
+56,Haldiram Snack 200 Gms,Perishable,1
+56,Domestos 5 ltr,Non-Perishable,1
+56,Sasa Washing Soap - 2 Pack,Non-Perishable,1
+56,Car Wax - 1 ltr,Non-Perishable,1
+56,Scrubber 1 pack,Non-Perishable,2
+56,Non-Stick Frying Pan,Non-Perishable,2
+56,Bucket 20 Ltr,Non-Perishable,2
+56,Handbag Laced,Non-Perishable,1
+57,Amul Butter,Perishable,1
+57,Vijay Cheese,Perishable,1
+57,Venky's Chicken Sausage,Perishable,1
+57,Dinshaws 1 Ltr Ice Cream,Perishable,3
+57,Dinshaws 2 Litre Milk,Perishable,3
+57,Sunflower Oil 5 Ltr,Perishable,3
+57,1 Ltr Lichi Squash,Perishable,1
+57,Mango Juice 2 Ltr,Perishable,1
+57,Amul Butter 1 KG,Perishable,1
+57,Cottage Cheese Pack 1 KG,Perishable,1
+57,Singh's Ham 50 gms,Perishable,1
+57,Pepsi 2 Ltr,Perishable,2
+57,Coca Cola 2 Ltr,Perishable,1
+57,Chicken 2 KG Pack,Perishable,1
+57,Onion 5 Kg Pack,Perishable,1
+57,Potato 5 Kg Pack,Perishable,1
+57,Mushroom 250 gm Pack,Perishable,1
+57,Haldiram Snack 200 Gms,Perishable,2
+57,Domestos 5 ltr,Non-Perishable,3
+57,Sasa Washing Soap - 2 Pack,Non-Perishable,1
+57,Car Wax - 1 ltr,Non-Perishable,2
+57,Scrubber 1 pack,Non-Perishable,1
+57,Non-Stick Frying Pan,Non-Perishable,2
+57,Bucket 20 Ltr,Non-Perishable,3
+58,Amul Butter,Perishable,1
+58,Vijay Cheese,Perishable,2
+58,Venky's Chicken Sausage,Perishable,1
+58,Dinshaws 1 Ltr Ice Cream,Perishable,1
+58,Dinshaws 2 Litre Milk,Perishable,1
+58,Sunflower Oil 5 Ltr,Perishable,1
+58,1 Ltr Lichi Squash,Perishable,1
+58,Mango Juice 2 Ltr,Perishable,1
+58,Amul Butter 1 KG,Perishable,1
+58,Cottage Cheese Pack 1 KG,Perishable,1
+58,Singh's Ham 50 gms,Perishable,2
+58,Pepsi 2 Ltr,Perishable,1
+58,Coca Cola 2 Ltr,Perishable,1
+58,Chicken 2 KG Pack,Perishable,1
+58,Onion 5 Kg Pack,Perishable,1
+58,Potato 5 Kg Pack,Perishable,1
+58,Mushroom 250 gm Pack,Perishable,1
+58,Haldiram Snack 200 Gms,Perishable,1
+58,Domestos 5 ltr,Non-Perishable,2
+58,Sasa Washing Soap - 2 Pack,Non-Perishable,2
+58,Car Wax - 1 ltr,Non-Perishable,2
+58,Scrubber 1 pack,Non-Perishable,1
+58,Non-Stick Frying Pan,Non-Perishable,1
+59,Amul Butter,Perishable,1
+59,Vijay Cheese,Perishable,1
+59,Venky's Chicken Sausage,Perishable,3
+59,Dinshaws 1 Ltr Ice Cream,Perishable,1
+59,Dinshaws 2 Litre Milk,Perishable,1
+59,Sunflower Oil 5 Ltr,Perishable,1
+59,1 Ltr Lichi Squash,Perishable,1
+59,Mango Juice 2 Ltr,Perishable,1
+59,Amul Butter 1 KG,Perishable,2
+59,Cottage Cheese Pack 1 KG,Perishable,1
+59,Singh's Ham 50 gms,Perishable,1
+59,Pepsi 2 Ltr,Perishable,1
+59,Coca Cola 2 Ltr,Perishable,1
+59,Chicken 2 KG Pack,Perishable,1
+59,Onion 5 Kg Pack,Perishable,2
+59,Potato 5 Kg Pack,Perishable,3
+59,Mushroom 250 gm Pack,Perishable,1
+59,Haldiram Snack 200 Gms,Perishable,2
+59,Domestos 5 ltr,Non-Perishable,1
+59,Sasa Washing Soap - 2 Pack,Non-Perishable,1
+59,Car Wax - 1 ltr,Non-Perishable,1
+59,Scrubber 1 pack,Non-Perishable,1
+60,Amul Butter,Perishable,1
+60,Vijay Cheese,Perishable,1
+60,Venky's Chicken Sausage,Perishable,1
+60,Dinshaws 1 Ltr Ice Cream,Perishable,1
+60,Dinshaws 2 Litre Milk,Perishable,2
+60,Sunflower Oil 5 Ltr,Perishable,2
+60,1 Ltr Lichi Squash,Perishable,2
+60,Mango Juice 2 Ltr,Perishable,1
+60,Amul Butter 1 KG,Perishable,1
+60,Cottage Cheese Pack 1 KG,Perishable,1
+60,Singh's Ham 50 gms,Perishable,1
+60,Pepsi 2 Ltr,Perishable,3
+60,Coca Cola 2 Ltr,Perishable,3
+60,Chicken 2 KG Pack,Perishable,3
+60,Onion 5 Kg Pack,Perishable,1
+60,Potato 5 Kg Pack,Perishable,1
+60,Mushroom 250 gm Pack,Perishable,1
+60,Haldiram Snack 200 Gms,Perishable,1
+60,Domestos 5 ltr,Non-Perishable,1
+60,Sasa Washing Soap - 2 Pack,Non-Perishable,2
+60,Car Wax - 1 ltr,Non-Perishable,1
+61,Amul Butter,Perishable,1
+61,Vijay Cheese,Perishable,1
+61,Venky's Chicken Sausage,Perishable,1
+61,Dinshaws 1 Ltr Ice Cream,Perishable,1
+61,Dinshaws 2 Litre Milk,Perishable,2
+61,Sunflower Oil 5 Ltr,Perishable,3
+61,1 Ltr Lichi Squash,Perishable,1
+61,Mango Juice 2 Ltr,Perishable,2
+61,Amul Butter 1 KG,Perishable,1
+61,Cottage Cheese Pack 1 KG,Perishable,2
+61,Singh's Ham 50 gms,Perishable,3
+61,Pepsi 2 Ltr,Perishable,1
+61,Coca Cola 2 Ltr,Perishable,2
+61,Chicken 2 KG Pack,Perishable,1
+61,Onion 5 Kg Pack,Perishable,1
+61,Potato 5 Kg Pack,Perishable,1
+61,Mushroom 250 gm Pack,Perishable,1
+61,Haldiram Snack 200 Gms,Perishable,1
+61,Domestos 5 ltr,Non-Perishable,1
+61,Sasa Washing Soap - 2 Pack,Non-Perishable,1
+62,Amul Butter,Perishable,1
+62,Vijay Cheese,Perishable,2
+62,Venky's Chicken Sausage,Perishable,2
+62,Dinshaws 1 Ltr Ice Cream,Perishable,2
+62,Dinshaws 2 Litre Milk,Perishable,1
+62,Sunflower Oil 5 Ltr,Perishable,1
+62,1 Ltr Lichi Squash,Perishable,1
+62,Mango Juice 2 Ltr,Perishable,1
+62,Amul Butter 1 KG,Perishable,3
+62,Cottage Cheese Pack 1 KG,Perishable,3
+62,Singh's Ham 50 gms,Perishable,3
+62,Pepsi 2 Ltr,Perishable,1
+62,Coca Cola 2 Ltr,Perishable,1
+62,Chicken 2 KG Pack,Perishable,1
+62,Onion 5 Kg Pack,Perishable,1
+62,Potato 5 Kg Pack,Perishable,1
+62,Mushroom 250 gm Pack,Perishable,2
+62,Haldiram Snack 200 Gms,Perishable,1
+62,Domestos 5 ltr,Non-Perishable,1
+62,Amul Butter,Perishable,1
+63,Vijay Cheese,Perishable,1
+63,Venky's Chicken Sausage,Perishable,1
+63,Dinshaws 1 Ltr Ice Cream,Perishable,2
+63,Dinshaws 2 Litre Milk,Perishable,3
+63,Sunflower Oil 5 Ltr,Perishable,1
+63,1 Ltr Lichi Squash,Perishable,2
+63,Mango Juice 2 Ltr,Perishable,1
+63,Amul Butter 1 KG,Perishable,2
+63,Cottage Cheese Pack 1 KG,Perishable,3
+63,Singh's Ham 50 gms,Perishable,1
+63,Pepsi 2 Ltr,Perishable,2
+63,Coca Cola 2 Ltr,Perishable,1
+63,Chicken 2 KG Pack,Perishable,1
+63,Onion 5 Kg Pack,Perishable,1
+63,Potato 5 Kg Pack,Perishable,1
+63,Mushroom 250 gm Pack,Perishable,1
+63,Haldiram Snack 200 Gms,Perishable,1
+64,Amul Butter,Perishable,1
+64,Vijay Cheese,Perishable,1
+64,Venky's Chicken Sausage,Perishable,2
+64,Dinshaws 1 Ltr Ice Cream,Perishable,1
+64,Dinshaws 2 Litre Milk,Perishable,1
+64,Sunflower Oil 5 Ltr,Perishable,1
+64,1 Ltr Lichi Squash,Perishable,1
+64,Mango Juice 2 Ltr,Perishable,1
+64,Amul Butter 1 KG,Perishable,1
+64,Cottage Cheese Pack 1 KG,Perishable,1
+64,Singh's Ham 50 gms,Perishable,2
+64,Pepsi 2 Ltr,Perishable,2
+64,Coca Cola 2 Ltr,Perishable,2
+64,Chicken 2 KG Pack,Perishable,1
+64,Onion 5 Kg Pack,Perishable,1
+64,Potato 5 Kg Pack,Perishable,1
+64,Mushroom 250 gm Pack,Perishable,1
+65,Amul Butter,Perishable,3
+65,Vijay Cheese,Perishable,1
+65,Venky's Chicken Sausage,Perishable,1
+65,Dinshaws 1 Ltr Ice Cream,Perishable,1
+65,Dinshaws 2 Litre Milk,Perishable,1
+65,Sunflower Oil 5 Ltr,Perishable,1
+65,1 Ltr Lichi Squash,Perishable,2
+65,Mango Juice 2 Ltr,Perishable,1
+65,Amul Butter 1 KG,Perishable,1
+65,Cottage Cheese Pack 1 KG,Perishable,1
+65,Singh's Ham 50 gms,Perishable,1
+65,Pepsi 2 Ltr,Perishable,1
+65,Coca Cola 2 Ltr,Perishable,2
+65,Chicken 2 KG Pack,Perishable,3
+65,Onion 5 Kg Pack,Perishable,1
+65,Potato 5 Kg Pack,Perishable,2
+66,Amul Butter,Perishable,1
+66,Vijay Cheese,Perishable,1
+66,Venky's Chicken Sausage,Perishable,1
+66,Dinshaws 1 Ltr Ice Cream,Perishable,1
+66,Dinshaws 2 Litre Milk,Perishable,1
+66,Sunflower Oil 5 Ltr,Perishable,1
+66,1 Ltr Lichi Squash,Perishable,1
+66,Mango Juice 2 Ltr,Perishable,1
+66,Amul Butter 1 KG,Perishable,2
+66,Cottage Cheese Pack 1 KG,Perishable,2
+66,Singh's Ham 50 gms,Perishable,2
+66,Pepsi 2 Ltr,Perishable,1
+66,Coca Cola 2 Ltr,Perishable,1
+66,Chicken 2 KG Pack,Perishable,1
+66,Onion 5 Kg Pack,Perishable,1
+67,Amul Butter,Perishable,3
+67,Vijay Cheese,Perishable,3
+67,Venky's Chicken Sausage,Perishable,3
+67,Dinshaws 1 Ltr Ice Cream,Perishable,1
+67,Dinshaws 2 Litre Milk,Perishable,1
+67,Sunflower Oil 5 Ltr,Perishable,1
+67,1 Ltr Lichi Squash,Perishable,1
+67,Mango Juice 2 Ltr,Perishable,1
+67,Amul Butter 1 KG,Perishable,2
+67,Cottage Cheese Pack 1 KG,Perishable,1
+67,Singh's Ham 50 gms,Perishable,1
+67,Pepsi 2 Ltr,Perishable,1
+67,Coca Cola 2 Ltr,Perishable,1
+67,Chicken 2 KG Pack,Perishable,1
+68,Amul Butter,Perishable,2
+68,Vijay Cheese,Perishable,3
+68,Venky's Chicken Sausage,Perishable,1
+68,Dinshaws 1 Ltr Ice Cream,Perishable,2
+68,Dinshaws 2 Litre Milk,Perishable,1
+68,Sunflower Oil 5 Ltr,Perishable,2
+68,1 Ltr Lichi Squash,Perishable,3
+68,Mango Juice 2 Ltr,Perishable,1
+68,Amul Butter 1 KG,Perishable,2
+68,Cottage Cheese Pack 1 KG,Perishable,1
+68,Singh's Ham 50 gms,Perishable,1
+68,Pepsi 2 Ltr,Perishable,1
+68,Coca Cola 2 Ltr,Perishable,1
+69,Amul Butter,Perishable,1
+69,Vijay Cheese,Perishable,1
+69,Venky's Chicken Sausage,Perishable,1
+69,Dinshaws 1 Ltr Ice Cream,Perishable,1
+69,Dinshaws 2 Litre Milk,Perishable,2
+69,Sunflower Oil 5 Ltr,Perishable,2
+69,1 Ltr Lichi Squash,Perishable,2
+69,Mango Juice 2 Ltr,Perishable,1
+69,Amul Butter 1 KG,Perishable,1
+69,Cottage Cheese Pack 1 KG,Perishable,1
+69,Singh's Ham 50 gms,Perishable,1
+69,Pepsi 2 Ltr,Perishable,3
+70,Amul Butter,Perishable,3
+70,Vijay Cheese,Perishable,3
+70,Venky's Chicken Sausage,Perishable,1
+70,Dinshaws 1 Ltr Ice Cream,Perishable,1
+70,Dinshaws 2 Litre Milk,Perishable,1
+70,Sunflower Oil 5 Ltr,Perishable,1
+70,1 Ltr Lichi Squash,Perishable,1
+70,Mango Juice 2 Ltr,Perishable,2
+70,Amul Butter 1 KG,Perishable,1
+70,Cottage Cheese Pack 1 KG,Perishable,1
+70,Singh's Ham 50 gms,Perishable,1
+71,Amul Butter,Perishable,1
+71,Vijay Cheese,Perishable,1
+71,Venky's Chicken Sausage,Perishable,2
+71,Dinshaws 1 Ltr Ice Cream,Perishable,3
+71,Dinshaws 2 Litre Milk,Perishable,1
+71,Sunflower Oil 5 Ltr,Perishable,2
+71,1 Ltr Lichi Squash,Perishable,1
+71,Mango Juice 2 Ltr,Perishable,2
+71,Amul Butter 1 KG,Perishable,3
+71,Cottage Cheese Pack 1 KG,Perishable,1
+71,Singh's Ham 50 gms,Perishable,2
+72,Amul Butter,Perishable,1
+72,Vijay Cheese,Perishable,1
+72,Venky's Chicken Sausage,Perishable,1
+72,Dinshaws 1 Ltr Ice Cream,Perishable,1
+72,Dinshaws 2 Litre Milk,Perishable,1
+72,Sunflower Oil 5 Ltr,Perishable,1
+72,1 Ltr Lichi Squash,Perishable,1
+72,Mango Juice 2 Ltr,Perishable,1
+72,Amul Butter 1 KG,Perishable,2
+72,Cottage Cheese Pack 1 KG,Perishable,1
+73,Amul Butter,Perishable,1
+73,Vijay Cheese,Perishable,1
+73,Venky's Chicken Sausage,Perishable,1
+73,Dinshaws 1 Ltr Ice Cream,Perishable,1
+73,Dinshaws 2 Litre Milk,Perishable,1
+73,Sunflower Oil 5 Ltr,Perishable,1
+73,1 Ltr Lichi Squash,Perishable,2
+73,Mango Juice 2 Ltr,Perishable,1
+73,Amul Butter 1 KG,Perishable,1
+74,Amul Butter,Perishable,1
+74,Vijay Cheese,Perishable,1
+74,Venky's Chicken Sausage,Perishable,1
+74,Dinshaws 1 Ltr Ice Cream,Perishable,2
+74,Dinshaws 2 Litre Milk,Perishable,1
+74,Sunflower Oil 5 Ltr,Perishable,1
+74,1 Ltr Lichi Squash,Perishable,1
+74,Mango Juice 2 Ltr,Perishable,1
+75,Amul Butter,Perishable,1
+75,Vijay Cheese,Perishable,2
+75,Venky's Chicken Sausage,Perishable,3
+75,Dinshaws 1 Ltr Ice Cream,Perishable,1
+75,Dinshaws 2 Litre Milk,Perishable,2
+75,Sunflower Oil 5 Ltr,Perishable,1
+75,1 Ltr Lichi Squash,Perishable,1
+76,Amul Butter,Perishable,1
+76,Vijay Cheese,Perishable,1
+76,Venky's Chicken Sausage,Perishable,1
+76,Dinshaws 1 Ltr Ice Cream,Perishable,1
+76,Dinshaws 2 Litre Milk,Perishable,1
+76,Sunflower Oil 5 Ltr,Perishable,1
+77,Amul Butter,Perishable,2
+77,Vijay Cheese,Perishable,2
+77,Venky's Chicken Sausage,Perishable,2
+77,Dinshaws 1 Ltr Ice Cream,Perishable,1
+77,Dinshaws 2 Litre Milk,Perishable,1
+78,Amul Butter,Perishable,1
+78,Vijay Cheese,Perishable,1
+78,Venky's Chicken Sausage,Perishable,3
+78,Dinshaws 1 Ltr Ice Cream,Perishable,3
+79,Amul Butter,Perishable,3
+79,Vijay Cheese,Perishable,1
+79,Venky's Chicken Sausage,Perishable,1
+80,Amul Butter,Perishable,1
+80,Vijay Cheese,Perishable,1
+81,Amul Butter,Perishable,1
+82,Amul Butter,Perishable,2
+82,Vijay Cheese,Perishable,1
+82,Venky's Chicken Sausage,Perishable,1
+82,Dinshaws 1 Ltr Ice Cream,Perishable,1
+82,Dinshaws 2 Litre Milk,Perishable,1
+82,Sunflower Oil 5 Ltr,Perishable,1
+82,1 Ltr Lichi Squash,Perishable,2
+82,Mango Juice 2 Ltr,Perishable,3
+82,Amul Butter 1 KG,Perishable,1
+82,Cottage Cheese Pack 1 KG,Perishable,2
+82,Singh's Ham 50 gms,Perishable,1
+82,Pepsi 2 Ltr,Perishable,2
+82,Coca Cola 2 Ltr,Perishable,3
+82,Chicken 2 KG Pack,Perishable,1
+82,Onion 5 Kg Pack,Perishable,2
+82,Potato 5 Kg Pack,Perishable,1
+82,Mushroom 250 gm Pack,Perishable,1
+82,Haldiram Snack 200 Gms,Perishable,1
+82,Domestos 5 ltr,Non-Perishable,1
+82,Sasa Washing Soap - 2 Pack,Non-Perishable,1
+82,Car Wax - 1 ltr,Non-Perishable,1
+82,Scrubber 1 pack,Non-Perishable,1
+82,Non-Stick Frying Pan,Non-Perishable,1
+82,Bucket 20 Ltr,Non-Perishable,2
+82,Handbag Laced,Non-Perishable,2
+82,Belt 36 Inch,Non-Perishable,2
+83,Amul Butter,Perishable,1
+83,Vijay Cheese,Perishable,1
+83,Venky's Chicken Sausage,Perishable,1
+83,Dinshaws 1 Ltr Ice Cream,Perishable,1
+83,Dinshaws 2 Litre Milk,Perishable,3
+83,Sunflower Oil 5 Ltr,Perishable,3
+83,1 Ltr Lichi Squash,Perishable,3
+83,Mango Juice 2 Ltr,Perishable,1
+83,Amul Butter 1 KG,Perishable,1
+83,Cottage Cheese Pack 1 KG,Perishable,1
+83,Singh's Ham 50 gms,Perishable,1
+83,Pepsi 2 Ltr,Perishable,1
+83,Coca Cola 2 Ltr,Perishable,2
+83,Chicken 2 KG Pack,Perishable,1
+83,Onion 5 Kg Pack,Perishable,1
+83,Potato 5 Kg Pack,Perishable,1
+83,Mushroom 250 gm Pack,Perishable,1
+83,Haldiram Snack 200 Gms,Perishable,1
+83,Domestos 5 ltr,Non-Perishable,2
+83,Sasa Washing Soap - 2 Pack,Non-Perishable,3
+83,Car Wax - 1 ltr,Non-Perishable,1
+83,Scrubber 1 pack,Non-Perishable,2
+83,Non-Stick Frying Pan,Non-Perishable,1
+83,Bucket 20 Ltr,Non-Perishable,2
+83,Handbag Laced,Non-Perishable,3
+84,Amul Butter,Perishable,1
+84,Vijay Cheese,Perishable,2
+84,Venky's Chicken Sausage,Perishable,1
+84,Dinshaws 1 Ltr Ice Cream,Perishable,1
+84,Dinshaws 2 Litre Milk,Perishable,1
+84,Sunflower Oil 5 Ltr,Perishable,1
+84,1 Ltr Lichi Squash,Perishable,1
+84,Mango Juice 2 Ltr,Perishable,1
+84,Amul Butter 1 KG,Perishable,1
+84,Cottage Cheese Pack 1 KG,Perishable,1
+84,Singh's Ham 50 gms,Perishable,2
+84,Pepsi 2 Ltr,Perishable,1
+84,Coca Cola 2 Ltr,Perishable,1
+84,Chicken 2 KG Pack,Perishable,1
+84,Onion 5 Kg Pack,Perishable,1
+84,Potato 5 Kg Pack,Perishable,1
+84,Mushroom 250 gm Pack,Perishable,1
+84,Haldiram Snack 200 Gms,Perishable,1
+84,Domestos 5 ltr,Non-Perishable,2
+84,Sasa Washing Soap - 2 Pack,Non-Perishable,2
+84,Car Wax - 1 ltr,Non-Perishable,2
+84,Scrubber 1 pack,Non-Perishable,1
+84,Non-Stick Frying Pan,Non-Perishable,1
+84,Bucket 20 Ltr,Non-Perishable,1
+85,Amul Butter,Perishable,1
+85,Vijay Cheese,Perishable,3
+85,Venky's Chicken Sausage,Perishable,1
+85,Dinshaws 1 Ltr Ice Cream,Perishable,1
+85,Dinshaws 2 Litre Milk,Perishable,1
+85,Sunflower Oil 5 Ltr,Perishable,1
+85,1 Ltr Lichi Squash,Perishable,1
+85,Mango Juice 2 Ltr,Perishable,2
+85,Amul Butter 1 KG,Perishable,1
+85,Cottage Cheese Pack 1 KG,Perishable,1
+85,Singh's Ham 50 gms,Perishable,1
+85,Pepsi 2 Ltr,Perishable,1
+85,Coca Cola 2 Ltr,Perishable,1
+85,Chicken 2 KG Pack,Perishable,2
+85,Onion 5 Kg Pack,Perishable,3
+85,Potato 5 Kg Pack,Perishable,1
+85,Mushroom 250 gm Pack,Perishable,2
+85,Haldiram Snack 200 Gms,Perishable,1
+85,Domestos 5 ltr,Non-Perishable,1
+85,Sasa Washing Soap - 2 Pack,Non-Perishable,1
+85,Car Wax - 1 ltr,Non-Perishable,1
+85,Scrubber 1 pack,Non-Perishable,1
+85,Non-Stick Frying Pan,Non-Perishable,1
+86,Amul Butter,Perishable,1
+86,Vijay Cheese,Perishable,1
+86,Venky's Chicken Sausage,Perishable,2
+86,Dinshaws 1 Ltr Ice Cream,Perishable,2
+86,Dinshaws 2 Litre Milk,Perishable,2
+86,Sunflower Oil 5 Ltr,Perishable,1
+86,1 Ltr Lichi Squash,Perishable,1
+86,Mango Juice 2 Ltr,Perishable,1
+86,Amul Butter 1 KG,Perishable,1
+86,Cottage Cheese Pack 1 KG,Perishable,3
+86,Singh's Ham 50 gms,Perishable,3
+86,Pepsi 2 Ltr,Perishable,3
+86,Coca Cola 2 Ltr,Perishable,1
+86,Chicken 2 KG Pack,Perishable,1
+86,Onion 5 Kg Pack,Perishable,1
+86,Potato 5 Kg Pack,Perishable,1
+86,Mushroom 250 gm Pack,Perishable,1
+86,Haldiram Snack 200 Gms,Perishable,2
+86,Domestos 5 ltr,Non-Perishable,1
+86,Sasa Washing Soap - 2 Pack,Non-Perishable,1
+86,Car Wax - 1 ltr,Non-Perishable,1
+86,Scrubber 1 pack,Non-Perishable,1
+87,Amul Butter,Perishable,1
+87,Vijay Cheese,Perishable,2
+87,Venky's Chicken Sausage,Perishable,3
+87,Dinshaws 1 Ltr Ice Cream,Perishable,1
+87,Dinshaws 2 Litre Milk,Perishable,2
+87,Sunflower Oil 5 Ltr,Perishable,1
+87,1 Ltr Lichi Squash,Perishable,2
+87,Mango Juice 2 Ltr,Perishable,3
+87,Amul Butter 1 KG,Perishable,1
+87,Cottage Cheese Pack 1 KG,Perishable,2
+87,Singh's Ham 50 gms,Perishable,1
+87,Pepsi 2 Ltr,Perishable,1
+87,Coca Cola 2 Ltr,Perishable,1
+87,Chicken 2 KG Pack,Perishable,1
+87,Onion 5 Kg Pack,Perishable,1
+87,Potato 5 Kg Pack,Perishable,1
+87,Mushroom 250 gm Pack,Perishable,1
+87,Haldiram Snack 200 Gms,Perishable,1
+87,Domestos 5 ltr,Non-Perishable,2
+87,Sasa Washing Soap - 2 Pack,Non-Perishable,2
+87,Car Wax - 1 ltr,Non-Perishable,2
+88,Amul Butter,Perishable,1
+88,Vijay Cheese,Perishable,1
+88,Venky's Chicken Sausage,Perishable,1
+88,Dinshaws 1 Ltr Ice Cream,Perishable,1
+88,Dinshaws 2 Litre Milk,Perishable,3
+88,Sunflower Oil 5 Ltr,Perishable,3
+88,1 Ltr Lichi Squash,Perishable,3
+88,Mango Juice 2 Ltr,Perishable,1
+88,Amul Butter 1 KG,Perishable,1
+88,Cottage Cheese Pack 1 KG,Perishable,1
+88,Singh's Ham 50 gms,Perishable,1
+88,Pepsi 2 Ltr,Perishable,1
+88,Coca Cola 2 Ltr,Perishable,2
+88,Chicken 2 KG Pack,Perishable,1
+88,Onion 5 Kg Pack,Perishable,1
+88,Potato 5 Kg Pack,Perishable,1
+88,Mushroom 250 gm Pack,Perishable,1
+88,Haldiram Snack 200 Gms,Perishable,1
+88,Domestos 5 ltr,Non-Perishable,2
+88,Sasa Washing Soap - 2 Pack,Non-Perishable,3
+89,Amul Butter,Perishable,1
+89,Vijay Cheese,Perishable,2
+89,Venky's Chicken Sausage,Perishable,1
+89,Dinshaws 1 Ltr Ice Cream,Perishable,2
+89,Dinshaws 2 Litre Milk,Perishable,3
+89,Sunflower Oil 5 Ltr,Perishable,1
+89,1 Ltr Lichi Squash,Perishable,2
+89,Mango Juice 2 Ltr,Perishable,1
+89,Amul Butter 1 KG,Perishable,1
+89,Cottage Cheese Pack 1 KG,Perishable,1
+89,Singh's Ham 50 gms,Perishable,1
+89,Pepsi 2 Ltr,Perishable,1
+89,Coca Cola 2 Ltr,Perishable,1
+89,Chicken 2 KG Pack,Perishable,1
+89,Onion 5 Kg Pack,Perishable,1
+89,Potato 5 Kg Pack,Perishable,2
+89,Mushroom 250 gm Pack,Perishable,1
+89,Haldiram Snack 200 Gms,Perishable,1
+89,Domestos 5 ltr,Non-Perishable,1
+89,Amul Butter,Perishable,1
+90,Vijay Cheese,Perishable,1
+90,Venky's Chicken Sausage,Perishable,1
+90,Dinshaws 1 Ltr Ice Cream,Perishable,1
+90,Dinshaws 2 Litre Milk,Perishable,2
+90,Sunflower Oil 5 Ltr,Perishable,2
+90,1 Ltr Lichi Squash,Perishable,2
+90,Mango Juice 2 Ltr,Perishable,1
+90,Amul Butter 1 KG,Perishable,1
+90,Cottage Cheese Pack 1 KG,Perishable,1
+90,Singh's Ham 50 gms,Perishable,1
+90,Pepsi 2 Ltr,Perishable,3
+90,Coca Cola 2 Ltr,Perishable,1
+90,Chicken 2 KG Pack,Perishable,1
+90,Onion 5 Kg Pack,Perishable,1
+90,Potato 5 Kg Pack,Perishable,1
+90,Mushroom 250 gm Pack,Perishable,1
+90,Haldiram Snack 200 Gms,Perishable,2
+91,Amul Butter,Perishable,1
+91,Vijay Cheese,Perishable,1
+91,Venky's Chicken Sausage,Perishable,1
+91,Dinshaws 1 Ltr Ice Cream,Perishable,1
+91,Dinshaws 2 Litre Milk,Perishable,1
+91,Sunflower Oil 5 Ltr,Perishable,2
+91,1 Ltr Lichi Squash,Perishable,3
+91,Mango Juice 2 Ltr,Perishable,1
+91,Amul Butter 1 KG,Perishable,2
+91,Cottage Cheese Pack 1 KG,Perishable,1
+91,Singh's Ham 50 gms,Perishable,1
+91,Pepsi 2 Ltr,Perishable,1
+91,Coca Cola 2 Ltr,Perishable,1
+91,Chicken 2 KG Pack,Perishable,1
+91,Onion 5 Kg Pack,Perishable,1
+91,Potato 5 Kg Pack,Perishable,1
+91,Mushroom 250 gm Pack,Perishable,1
+92,Amul Butter,Perishable,2
+92,Vijay Cheese,Perishable,2
+92,Venky's Chicken Sausage,Perishable,2
+92,Dinshaws 1 Ltr Ice Cream,Perishable,1
+92,Dinshaws 2 Litre Milk,Perishable,1
+92,Sunflower Oil 5 Ltr,Perishable,1
+92,1 Ltr Lichi Squash,Perishable,1
+92,Mango Juice 2 Ltr,Perishable,3
+92,Amul Butter 1 KG,Perishable,3
+92,Cottage Cheese Pack 1 KG,Perishable,3
+92,Singh's Ham 50 gms,Perishable,1
+92,Pepsi 2 Ltr,Perishable,1
+92,Coca Cola 2 Ltr,Perishable,1
+92,Chicken 2 KG Pack,Perishable,1
+92,Onion 5 Kg Pack,Perishable,1
+92,Potato 5 Kg Pack,Perishable,2
+93,Amul Butter,Perishable,1
+93,Vijay Cheese,Perishable,1
+93,Venky's Chicken Sausage,Perishable,1
+93,Dinshaws 1 Ltr Ice Cream,Perishable,1
+93,Dinshaws 2 Litre Milk,Perishable,1
+93,Sunflower Oil 5 Ltr,Perishable,2
+93,1 Ltr Lichi Squash,Perishable,3
+93,Mango Juice 2 Ltr,Perishable,1
+93,Amul Butter 1 KG,Perishable,2
+93,Cottage Cheese Pack 1 KG,Perishable,1
+93,Singh's Ham 50 gms,Perishable,2
+93,Pepsi 2 Ltr,Perishable,3
+93,Coca Cola 2 Ltr,Perishable,1
+93,Chicken 2 KG Pack,Perishable,2
+93,Onion 5 Kg Pack,Perishable,1
+94,Amul Butter,Perishable,1
+94,Vijay Cheese,Perishable,1
+94,Venky's Chicken Sausage,Perishable,1
+94,Dinshaws 1 Ltr Ice Cream,Perishable,1
+94,Dinshaws 2 Litre Milk,Perishable,1
+94,Sunflower Oil 5 Ltr,Perishable,1
+94,1 Ltr Lichi Squash,Perishable,1
+94,Mango Juice 2 Ltr,Perishable,2
+94,Amul Butter 1 KG,Perishable,2
+94,Cottage Cheese Pack 1 KG,Perishable,2
+94,Singh's Ham 50 gms,Perishable,1
+94,Pepsi 2 Ltr,Perishable,1
+94,Coca Cola 2 Ltr,Perishable,1
+94,Chicken 2 KG Pack,Perishable,1
+95,Amul Butter,Perishable,3
+95,Vijay Cheese,Perishable,3
+95,Venky's Chicken Sausage,Perishable,3
+95,Dinshaws 1 Ltr Ice Cream,Perishable,1
+95,Dinshaws 2 Litre Milk,Perishable,1
+95,Sunflower Oil 5 Ltr,Perishable,1
+95,1 Ltr Lichi Squash,Perishable,1
+95,Mango Juice 2 Ltr,Perishable,1
+95,Amul Butter 1 KG,Perishable,2
+95,Cottage Cheese Pack 1 KG,Perishable,1
+95,Singh's Ham 50 gms,Perishable,1
+95,Pepsi 2 Ltr,Perishable,1
+95,Coca Cola 2 Ltr,Perishable,1
+96,Amul Butter,Perishable,1
+96,Vijay Cheese,Perishable,2
+96,Venky's Chicken Sausage,Perishable,3
+96,Dinshaws 1 Ltr Ice Cream,Perishable,1
+96,Dinshaws 2 Litre Milk,Perishable,2
+96,Sunflower Oil 5 Ltr,Perishable,1
+96,1 Ltr Lichi Squash,Perishable,2
+96,Mango Juice 2 Ltr,Perishable,3
+96,Amul Butter 1 KG,Perishable,1
+96,Cottage Cheese Pack 1 KG,Perishable,2
+96,Singh's Ham 50 gms,Perishable,1
+96,Pepsi 2 Ltr,Perishable,1
+97,Amul Butter,Perishable,1
+97,Vijay Cheese,Perishable,1
+97,Venky's Chicken Sausage,Perishable,1
+97,Dinshaws 1 Ltr Ice Cream,Perishable,1
+97,Dinshaws 2 Litre Milk,Perishable,1
+97,Sunflower Oil 5 Ltr,Perishable,1
+97,1 Ltr Lichi Squash,Perishable,2
+97,Mango Juice 2 Ltr,Perishable,1
+97,Amul Butter 1 KG,Perishable,1
+97,Cottage Cheese Pack 1 KG,Perishable,1
+97,Singh's Ham 50 gms,Perishable,1
+98,Amul Butter,Perishable,1
+98,Vijay Cheese,Perishable,1
+98,Venky's Chicken Sausage,Perishable,1
+98,Dinshaws 1 Ltr Ice Cream,Perishable,2
+98,Dinshaws 2 Litre Milk,Perishable,1
+98,Sunflower Oil 5 Ltr,Perishable,1
+98,1 Ltr Lichi Squash,Perishable,1
+98,Mango Juice 2 Ltr,Perishable,1
+98,Amul Butter 1 KG,Perishable,1
+98,Cottage Cheese Pack 1 KG,Perishable,1
+98,Singh's Ham 50 gms,Perishable,1
+99,Amul Butter,Perishable,2
+99,Vijay Cheese,Perishable,2
+99,Venky's Chicken Sausage,Perishable,2
+99,Dinshaws 1 Ltr Ice Cream,Perishable,1
+99,Dinshaws 2 Litre Milk,Perishable,1
+99,Sunflower Oil 5 Ltr,Perishable,1
+99,1 Ltr Lichi Squash,Perishable,1
+99,Mango Juice 2 Ltr,Perishable,3
+99,Amul Butter 1 KG,Perishable,3
+99,Cottage Cheese Pack 1 KG,Perishable,3
+100,Amul Butter,Perishable,1
+100,Vijay Cheese,Perishable,1
+100,Venky's Chicken Sausage,Perishable,1
+100,Dinshaws 1 Ltr Ice Cream,Perishable,1
+100,Dinshaws 2 Litre Milk,Perishable,1
+100,Sunflower Oil 5 Ltr,Perishable,2
+100,1 Ltr Lichi Squash,Perishable,1
+100,Mango Juice 2 Ltr,Perishable,1
+100,Amul Butter 1 KG,Perishable,1
+101,Amul Butter,Perishable,1
+101,Vijay Cheese,Perishable,1
+101,Venky's Chicken Sausage,Perishable,2
+101,Dinshaws 1 Ltr Ice Cream,Perishable,3
+101,Dinshaws 2 Litre Milk,Perishable,1
+101,Sunflower Oil 5 Ltr,Perishable,2
+101,1 Ltr Lichi Squash,Perishable,1
+101,Mango Juice 2 Ltr,Perishable,1
+102,Amul Butter,Perishable,1
+102,Vijay Cheese,Perishable,1
+102,Venky's Chicken Sausage,Perishable,1
+102,Dinshaws 1 Ltr Ice Cream,Perishable,1
+102,Dinshaws 2 Litre Milk,Perishable,1
+102,Sunflower Oil 5 Ltr,Perishable,1
+102,1 Ltr Lichi Squash,Perishable,2
+103,Amul Butter,Perishable,2
+103,Vijay Cheese,Perishable,2
+103,Venky's Chicken Sausage,Perishable,1
+103,Dinshaws 1 Ltr Ice Cream,Perishable,1
+103,Dinshaws 2 Litre Milk,Perishable,1
+103,Sunflower Oil 5 Ltr,Perishable,1
+104,Amul Butter,Perishable,3
+104,Vijay Cheese,Perishable,3
+104,Venky's Chicken Sausage,Perishable,3
+104,Dinshaws 1 Ltr Ice Cream,Perishable,1
+104,Dinshaws 2 Litre Milk,Perishable,1
+105,Amul Butter,Perishable,1
+105,Vijay Cheese,Perishable,1
+105,Venky's Chicken Sausage,Perishable,1
+105,Dinshaws 1 Ltr Ice Cream,Perishable,2
+106,Amul Butter,Perishable,1
+106,Vijay Cheese,Perishable,1
+106,Venky's Chicken Sausage,Perishable,1
+107,Amul Butter,Perishable,1
+107,Vijay Cheese,Perishable,1
+108,Amul Butter,Perishable,2
+109,Amul Butter,Perishable,3
+109,Vijay Cheese,Perishable,1
+109,Venky's Chicken Sausage,Perishable,2
+109,Dinshaws 1 Ltr Ice Cream,Perishable,1
+109,Dinshaws 2 Litre Milk,Perishable,2
+109,Sunflower Oil 5 Ltr,Perishable,3
+109,1 Ltr Lichi Squash,Perishable,1
+109,Mango Juice 2 Ltr,Perishable,2
+109,Amul Butter 1 KG,Perishable,1
+109,Cottage Cheese Pack 1 KG,Perishable,1
+109,Singh's Ham 50 gms,Perishable,1
+109,Pepsi 2 Ltr,Perishable,1
+109,Coca Cola 2 Ltr,Perishable,1
+109,Chicken 2 KG Pack,Perishable,1
+109,Onion 5 Kg Pack,Perishable,1
+109,Potato 5 Kg Pack,Perishable,1
+109,Mushroom 250 gm Pack,Perishable,2
+109,Haldiram Snack 200 Gms,Perishable,2
+109,Domestos 5 ltr,Non-Perishable,2
+109,Sasa Washing Soap - 2 Pack,Non-Perishable,1
+109,Car Wax - 1 ltr,Non-Perishable,1
+109,Scrubber 1 pack,Non-Perishable,1
+109,Non-Stick Frying Pan,Non-Perishable,1
+109,Bucket 20 Ltr,Non-Perishable,3
+109,Handbag Laced,Non-Perishable,3
+109,Belt 36 Inch,Non-Perishable,3
+110,Amul Butter,Perishable,1
+110,Vijay Cheese,Perishable,1
+110,Venky's Chicken Sausage,Perishable,1
+110,Dinshaws 1 Ltr Ice Cream,Perishable,1
+110,Dinshaws 2 Litre Milk,Perishable,1
+110,Sunflower Oil 5 Ltr,Perishable,2
+110,1 Ltr Lichi Squash,Perishable,1
+110,Mango Juice 2 Ltr,Perishable,1
+110,Amul Butter 1 KG,Perishable,1
+110,Cottage Cheese Pack 1 KG,Perishable,1
+110,Singh's Ham 50 gms,Perishable,1
+110,Pepsi 2 Ltr,Perishable,2
+110,Coca Cola 2 Ltr,Perishable,3
+110,Chicken 2 KG Pack,Perishable,1
+110,Onion 5 Kg Pack,Perishable,2
+110,Potato 5 Kg Pack,Perishable,1
+110,Mushroom 250 gm Pack,Perishable,2
+110,Haldiram Snack 200 Gms,Perishable,3
+110,Domestos 5 ltr,Non-Perishable,1
+110,Sasa Washing Soap - 2 Pack,Non-Perishable,2
+110,Car Wax - 1 ltr,Non-Perishable,1
+110,Scrubber 1 pack,Non-Perishable,1
+110,Non-Stick Frying Pan,Non-Perishable,1
+110,Bucket 20 Ltr,Non-Perishable,1
+110,Handbag Laced,Non-Perishable,1
+111,Amul Butter,Perishable,1
+111,Vijay Cheese,Perishable,1
+111,Venky's Chicken Sausage,Perishable,1
+111,Dinshaws 1 Ltr Ice Cream,Perishable,2
+111,Dinshaws 2 Litre Milk,Perishable,1
+111,Sunflower Oil 5 Ltr,Perishable,1
+111,1 Ltr Lichi Squash,Perishable,1
+111,Mango Juice 2 Ltr,Perishable,1
+111,Amul Butter 1 KG,Perishable,1
+111,Cottage Cheese Pack 1 KG,Perishable,1
+111,Singh's Ham 50 gms,Perishable,1
+111,Pepsi 2 Ltr,Perishable,2
+111,Coca Cola 2 Ltr,Perishable,2
+111,Chicken 2 KG Pack,Perishable,2
+111,Onion 5 Kg Pack,Perishable,1
+111,Potato 5 Kg Pack,Perishable,1
+111,Mushroom 250 gm Pack,Perishable,1
+111,Haldiram Snack 200 Gms,Perishable,1
+111,Domestos 5 ltr,Non-Perishable,3
+111,Sasa Washing Soap - 2 Pack,Non-Perishable,1
+111,Car Wax - 1 ltr,Non-Perishable,1
+111,Scrubber 1 pack,Non-Perishable,1
+111,Non-Stick Frying Pan,Non-Perishable,1
+111,Bucket 20 Ltr,Non-Perishable,1
+112,Amul Butter,Perishable,2
+112,Vijay Cheese,Perishable,1
+112,Venky's Chicken Sausage,Perishable,1
+112,Dinshaws 1 Ltr Ice Cream,Perishable,1
+112,Dinshaws 2 Litre Milk,Perishable,1
+112,Sunflower Oil 5 Ltr,Perishable,1
+112,1 Ltr Lichi Squash,Perishable,2
+112,Mango Juice 2 Ltr,Perishable,3
+112,Amul Butter 1 KG,Perishable,1
+112,Cottage Cheese Pack 1 KG,Perishable,2
+112,Singh's Ham 50 gms,Perishable,1
+112,Pepsi 2 Ltr,Perishable,1
+112,Coca Cola 2 Ltr,Perishable,1
+112,Chicken 2 KG Pack,Perishable,1
+112,Onion 5 Kg Pack,Perishable,1
+112,Potato 5 Kg Pack,Perishable,1
+112,Mushroom 250 gm Pack,Perishable,1
+112,Haldiram Snack 200 Gms,Perishable,1
+112,Domestos 5 ltr,Non-Perishable,2
+112,Sasa Washing Soap - 2 Pack,Non-Perishable,2
+112,Car Wax - 1 ltr,Non-Perishable,2
+112,Scrubber 1 pack,Non-Perishable,1
+112,Non-Stick Frying Pan,Non-Perishable,1
+113,Amul Butter,Perishable,1
+113,Vijay Cheese,Perishable,1
+113,Venky's Chicken Sausage,Perishable,3
+113,Dinshaws 1 Ltr Ice Cream,Perishable,3
+113,Dinshaws 2 Litre Milk,Perishable,3
+113,Sunflower Oil 5 Ltr,Perishable,1
+113,1 Ltr Lichi Squash,Perishable,1
+113,Mango Juice 2 Ltr,Perishable,1
+113,Amul Butter 1 KG,Perishable,1
+113,Cottage Cheese Pack 1 KG,Perishable,1
+113,Singh's Ham 50 gms,Perishable,2
+113,Pepsi 2 Ltr,Perishable,1
+113,Coca Cola 2 Ltr,Perishable,1
+113,Chicken 2 KG Pack,Perishable,1
+113,Onion 5 Kg Pack,Perishable,1
+113,Potato 5 Kg Pack,Perishable,1
+113,Mushroom 250 gm Pack,Perishable,2
+113,Haldiram Snack 200 Gms,Perishable,3
+113,Domestos 5 ltr,Non-Perishable,1
+113,Sasa Washing Soap - 2 Pack,Non-Perishable,2
+113,Car Wax - 1 ltr,Non-Perishable,1
+113,Scrubber 1 pack,Non-Perishable,2
+114,Amul Butter,Perishable,3
+114,Vijay Cheese,Perishable,1
+114,Venky's Chicken Sausage,Perishable,2
+114,Dinshaws 1 Ltr Ice Cream,Perishable,1
+114,Dinshaws 2 Litre Milk,Perishable,1
+114,Sunflower Oil 5 Ltr,Perishable,1
+114,1 Ltr Lichi Squash,Perishable,1
+114,Mango Juice 2 Ltr,Perishable,1
+114,Amul Butter 1 KG,Perishable,1
+114,Cottage Cheese Pack 1 KG,Perishable,1
+114,Singh's Ham 50 gms,Perishable,1
+114,Pepsi 2 Ltr,Perishable,2
+114,Coca Cola 2 Ltr,Perishable,2
+114,Chicken 2 KG Pack,Perishable,2
+114,Onion 5 Kg Pack,Perishable,1
+114,Potato 5 Kg Pack,Perishable,1
+114,Mushroom 250 gm Pack,Perishable,1
+114,Haldiram Snack 200 Gms,Perishable,1
+114,Domestos 5 ltr,Non-Perishable,3
+114,Sasa Washing Soap - 2 Pack,Non-Perishable,3
+114,Car Wax - 1 ltr,Non-Perishable,3
+115,Amul Butter,Perishable,1
+115,Vijay Cheese,Perishable,1
+115,Venky's Chicken Sausage,Perishable,1
+115,Dinshaws 1 Ltr Ice Cream,Perishable,1
+115,Dinshaws 2 Litre Milk,Perishable,1
+115,Sunflower Oil 5 Ltr,Perishable,2
+115,1 Ltr Lichi Squash,Perishable,1
+115,Mango Juice 2 Ltr,Perishable,1
+115,Amul Butter 1 KG,Perishable,1
+115,Cottage Cheese Pack 1 KG,Perishable,1
+115,Singh's Ham 50 gms,Perishable,1
+115,Pepsi 2 Ltr,Perishable,2
+115,Coca Cola 2 Ltr,Perishable,3
+115,Chicken 2 KG Pack,Perishable,1
+115,Onion 5 Kg Pack,Perishable,2
+115,Potato 5 Kg Pack,Perishable,1
+115,Mushroom 250 gm Pack,Perishable,2
+115,Haldiram Snack 200 Gms,Perishable,3
+115,Domestos 5 ltr,Non-Perishable,1
+115,Sasa Washing Soap - 2 Pack,Non-Perishable,2
+116,Amul Butter,Perishable,1
+116,Vijay Cheese,Perishable,1
+116,Venky's Chicken Sausage,Perishable,1
+116,Dinshaws 1 Ltr Ice Cream,Perishable,1
+116,Dinshaws 2 Litre Milk,Perishable,1
+116,Sunflower Oil 5 Ltr,Perishable,1
+116,1 Ltr Lichi Squash,Perishable,1
+116,Mango Juice 2 Ltr,Perishable,1
+116,Amul Butter 1 KG,Perishable,2
+116,Cottage Cheese Pack 1 KG,Perishable,1
+116,Singh's Ham 50 gms,Perishable,1
+116,Pepsi 2 Ltr,Perishable,1
+116,Coca Cola 2 Ltr,Perishable,1
+116,Chicken 2 KG Pack,Perishable,1
+116,Onion 5 Kg Pack,Perishable,1
+116,Potato 5 Kg Pack,Perishable,1
+116,Mushroom 250 gm Pack,Perishable,2
+116,Haldiram Snack 200 Gms,Perishable,2
+116,Domestos 5 ltr,Non-Perishable,2
+116,Amul Butter,Perishable,1
+117,Vijay Cheese,Perishable,1
+117,Venky's Chicken Sausage,Perishable,1
+117,Dinshaws 1 Ltr Ice Cream,Perishable,1
+117,Dinshaws 2 Litre Milk,Perishable,3
+117,Sunflower Oil 5 Ltr,Perishable,1
+117,1 Ltr Lichi Squash,Perishable,1
+117,Mango Juice 2 Ltr,Perishable,1
+117,Amul Butter 1 KG,Perishable,1
+117,Cottage Cheese Pack 1 KG,Perishable,1
+117,Singh's Ham 50 gms,Perishable,2
+117,Pepsi 2 Ltr,Perishable,1
+117,Coca Cola 2 Ltr,Perishable,1
+117,Chicken 2 KG Pack,Perishable,1
+117,Onion 5 Kg Pack,Perishable,1
+117,Potato 5 Kg Pack,Perishable,1
+117,Mushroom 250 gm Pack,Perishable,2
+117,Haldiram Snack 200 Gms,Perishable,3
+118,Amul Butter,Perishable,1
+118,Vijay Cheese,Perishable,2
+118,Venky's Chicken Sausage,Perishable,1
+118,Dinshaws 1 Ltr Ice Cream,Perishable,1
+118,Dinshaws 2 Litre Milk,Perishable,1
+118,Sunflower Oil 5 Ltr,Perishable,1
+118,1 Ltr Lichi Squash,Perishable,1
+118,Mango Juice 2 Ltr,Perishable,1
+118,Amul Butter 1 KG,Perishable,1
+118,Cottage Cheese Pack 1 KG,Perishable,1
+118,Singh's Ham 50 gms,Perishable,2
+118,Pepsi 2 Ltr,Perishable,2
+118,Coca Cola 2 Ltr,Perishable,2
+118,Chicken 2 KG Pack,Perishable,1
+118,Onion 5 Kg Pack,Perishable,1
+118,Potato 5 Kg Pack,Perishable,1
+118,Mushroom 250 gm Pack,Perishable,1
+119,Amul Butter,Perishable,3
+119,Vijay Cheese,Perishable,3
+119,Venky's Chicken Sausage,Perishable,3
+119,Dinshaws 1 Ltr Ice Cream,Perishable,1
+119,Dinshaws 2 Litre Milk,Perishable,1
+119,Sunflower Oil 5 Ltr,Perishable,1
+119,1 Ltr Lichi Squash,Perishable,1
+119,Mango Juice 2 Ltr,Perishable,1
+119,Amul Butter 1 KG,Perishable,2
+119,Cottage Cheese Pack 1 KG,Perishable,1
+119,Singh's Ham 50 gms,Perishable,1
+119,Pepsi 2 Ltr,Perishable,1
+119,Coca Cola 2 Ltr,Perishable,1
+119,Chicken 2 KG Pack,Perishable,1
+119,Onion 5 Kg Pack,Perishable,2
+119,Potato 5 Kg Pack,Perishable,3
+120,Amul Butter,Perishable,1
+120,Vijay Cheese,Perishable,2
+120,Venky's Chicken Sausage,Perishable,1
+120,Dinshaws 1 Ltr Ice Cream,Perishable,2
+120,Dinshaws 2 Litre Milk,Perishable,3
+120,Sunflower Oil 5 Ltr,Perishable,1
+120,1 Ltr Lichi Squash,Perishable,2
+120,Mango Juice 2 Ltr,Perishable,1
+120,Amul Butter 1 KG,Perishable,1
+120,Cottage Cheese Pack 1 KG,Perishable,1
+120,Singh's Ham 50 gms,Perishable,1
+120,Pepsi 2 Ltr,Perishable,1
+120,Coca Cola 2 Ltr,Perishable,1
+120,Chicken 2 KG Pack,Perishable,1
+120,Onion 5 Kg Pack,Perishable,1
+121,Amul Butter,Perishable,2
+121,Vijay Cheese,Perishable,2
+121,Venky's Chicken Sausage,Perishable,2
+121,Dinshaws 1 Ltr Ice Cream,Perishable,1
+121,Dinshaws 2 Litre Milk,Perishable,1
+121,Sunflower Oil 5 Ltr,Perishable,1
+121,1 Ltr Lichi Squash,Perishable,1
+121,Mango Juice 2 Ltr,Perishable,3
+121,Amul Butter 1 KG,Perishable,3
+121,Cottage Cheese Pack 1 KG,Perishable,3
+121,Singh's Ham 50 gms,Perishable,1
+121,Pepsi 2 Ltr,Perishable,1
+121,Coca Cola 2 Ltr,Perishable,1
+121,Chicken 2 KG Pack,Perishable,1
+122,Amul Butter,Perishable,1
+122,Vijay Cheese,Perishable,2
+122,Venky's Chicken Sausage,Perishable,1
+122,Dinshaws 1 Ltr Ice Cream,Perishable,1
+122,Dinshaws 2 Litre Milk,Perishable,1
+122,Sunflower Oil 5 Ltr,Perishable,1
+122,1 Ltr Lichi Squash,Perishable,1
+122,Mango Juice 2 Ltr,Perishable,2
+122,Amul Butter 1 KG,Perishable,3
+122,Cottage Cheese Pack 1 KG,Perishable,1
+122,Singh's Ham 50 gms,Perishable,2
+122,Pepsi 2 Ltr,Perishable,1
+122,Coca Cola 2 Ltr,Perishable,2
+123,Amul Butter,Perishable,3
+123,Vijay Cheese,Perishable,1
+123,Venky's Chicken Sausage,Perishable,2
+123,Dinshaws 1 Ltr Ice Cream,Perishable,1
+123,Dinshaws 2 Litre Milk,Perishable,1
+123,Sunflower Oil 5 Ltr,Perishable,1
+123,1 Ltr Lichi Squash,Perishable,1
+123,Mango Juice 2 Ltr,Perishable,1
+123,Amul Butter 1 KG,Perishable,1
+123,Cottage Cheese Pack 1 KG,Perishable,1
+123,Singh's Ham 50 gms,Perishable,1
+123,Pepsi 2 Ltr,Perishable,2
+124,Amul Butter,Perishable,1
+124,Vijay Cheese,Perishable,1
+124,Venky's Chicken Sausage,Perishable,1
+124,Dinshaws 1 Ltr Ice Cream,Perishable,1
+124,Dinshaws 2 Litre Milk,Perishable,1
+124,Sunflower Oil 5 Ltr,Perishable,1
+124,1 Ltr Lichi Squash,Perishable,1
+124,Mango Juice 2 Ltr,Perishable,2
+124,Amul Butter 1 KG,Perishable,1
+124,Cottage Cheese Pack 1 KG,Perishable,1
+124,Singh's Ham 50 gms,Perishable,1
+125,Amul Butter,Perishable,1
+125,Vijay Cheese,Perishable,1
+125,Venky's Chicken Sausage,Perishable,2
+125,Dinshaws 1 Ltr Ice Cream,Perishable,1
+125,Dinshaws 2 Litre Milk,Perishable,1
+125,Sunflower Oil 5 Ltr,Perishable,1
+125,1 Ltr Lichi Squash,Perishable,1
+125,Mango Juice 2 Ltr,Perishable,1
+125,Amul Butter 1 KG,Perishable,2
+125,Cottage Cheese Pack 1 KG,Perishable,3
+125,Singh's Ham 50 gms,Perishable,1
+126,Amul Butter,Perishable,2
+126,Vijay Cheese,Perishable,1
+126,Venky's Chicken Sausage,Perishable,1
+126,Dinshaws 1 Ltr Ice Cream,Perishable,1
+126,Dinshaws 2 Litre Milk,Perishable,1
+126,Sunflower Oil 5 Ltr,Perishable,1
+126,1 Ltr Lichi Squash,Perishable,1
+126,Mango Juice 2 Ltr,Perishable,1
+126,Amul Butter 1 KG,Perishable,1
+126,Cottage Cheese Pack 1 KG,Perishable,2
+127,Amul Butter,Perishable,2
+127,Vijay Cheese,Perishable,2
+127,Venky's Chicken Sausage,Perishable,1
+127,Dinshaws 1 Ltr Ice Cream,Perishable,1
+127,Dinshaws 2 Litre Milk,Perishable,1
+127,Sunflower Oil 5 Ltr,Perishable,1
+127,1 Ltr Lichi Squash,Perishable,3
+127,Mango Juice 2 Ltr,Perishable,3
+127,Amul Butter 1 KG,Perishable,3
+128,Amul Butter,Perishable,1
+128,Vijay Cheese,Perishable,1
+128,Venky's Chicken Sausage,Perishable,1
+128,Dinshaws 1 Ltr Ice Cream,Perishable,1
+128,Dinshaws 2 Litre Milk,Perishable,1
+128,Sunflower Oil 5 Ltr,Perishable,2
+128,1 Ltr Lichi Squash,Perishable,1
+128,Mango Juice 2 Ltr,Perishable,1
+129,Amul Butter,Perishable,1
+129,Vijay Cheese,Perishable,1
+129,Venky's Chicken Sausage,Perishable,1
+129,Dinshaws 1 Ltr Ice Cream,Perishable,2
+129,Dinshaws 2 Litre Milk,Perishable,3
+129,Sunflower Oil 5 Ltr,Perishable,1
+129,1 Ltr Lichi Squash,Perishable,2
+130,Amul Butter,Perishable,1
+130,Vijay Cheese,Perishable,2
+130,Venky's Chicken Sausage,Perishable,3
+130,Dinshaws 1 Ltr Ice Cream,Perishable,1
+130,Dinshaws 2 Litre Milk,Perishable,2
+130,Sunflower Oil 5 Ltr,Perishable,1
+131,Amul Butter,Perishable,1
+131,Vijay Cheese,Perishable,1
+131,Venky's Chicken Sausage,Perishable,1
+131,Dinshaws 1 Ltr Ice Cream,Perishable,1
+131,Dinshaws 2 Litre Milk,Perishable,1
+132,Amul Butter,Perishable,1
+132,Vijay Cheese,Perishable,1
+132,Venky's Chicken Sausage,Perishable,2
+132,Dinshaws 1 Ltr Ice Cream,Perishable,2
+133,Amul Butter,Perishable,2
+133,Vijay Cheese,Perishable,1
+133,Venky's Chicken Sausage,Perishable,1
+134,Amul Butter,Perishable,1
+134,Vijay Cheese,Perishable,1
+135,Amul Butter,Perishable,3
+136,Amul Butter,Perishable,3
+136,Vijay Cheese,Perishable,3
+136,Venky's Chicken Sausage,Perishable,1
+136,Dinshaws 1 Ltr Ice Cream,Perishable,1
+136,Dinshaws 2 Litre Milk,Perishable,1
+136,Sunflower Oil 5 Ltr,Perishable,1
+136,1 Ltr Lichi Squash,Perishable,1
+136,Mango Juice 2 Ltr,Perishable,2
+136,Amul Butter 1 KG,Perishable,1
+136,Cottage Cheese Pack 1 KG,Perishable,1
+136,Singh's Ham 50 gms,Perishable,1
+136,Pepsi 2 Ltr,Perishable,1
+136,Coca Cola 2 Ltr,Perishable,1
+136,Chicken 2 KG Pack,Perishable,2
+136,Onion 5 Kg Pack,Perishable,3
+136,Potato 5 Kg Pack,Perishable,1
+136,Mushroom 250 gm Pack,Perishable,2
+136,Haldiram Snack 200 Gms,Perishable,1
+136,Domestos 5 ltr,Non-Perishable,2
+136,Sasa Washing Soap - 2 Pack,Non-Perishable,3
+136,Car Wax - 1 ltr,Non-Perishable,1
+136,Scrubber 1 pack,Non-Perishable,2
+136,Non-Stick Frying Pan,Non-Perishable,1
+136,Bucket 20 Ltr,Non-Perishable,1
+136,Handbag Laced,Non-Perishable,1
+136,Belt 36 Inch,Non-Perishable,1
+137,Amul Butter,Perishable,1
+137,Vijay Cheese,Perishable,1
+137,Venky's Chicken Sausage,Perishable,1
+137,Dinshaws 1 Ltr Ice Cream,Perishable,1
+137,Dinshaws 2 Litre Milk,Perishable,2
+137,Sunflower Oil 5 Ltr,Perishable,1
+137,1 Ltr Lichi Squash,Perishable,1
+137,Mango Juice 2 Ltr,Perishable,1
+137,Amul Butter 1 KG,Perishable,1
+137,Cottage Cheese Pack 1 KG,Perishable,1
+137,Singh's Ham 50 gms,Perishable,1
+137,Pepsi 2 Ltr,Perishable,1
+137,Coca Cola 2 Ltr,Perishable,2
+137,Chicken 2 KG Pack,Perishable,2
+137,Onion 5 Kg Pack,Perishable,2
+137,Potato 5 Kg Pack,Perishable,1
+137,Mushroom 250 gm Pack,Perishable,1
+137,Haldiram Snack 200 Gms,Perishable,1
+137,Domestos 5 ltr,Non-Perishable,1
+137,Sasa Washing Soap - 2 Pack,Non-Perishable,3
+137,Car Wax - 1 ltr,Non-Perishable,1
+137,Scrubber 1 pack,Non-Perishable,1
+137,Non-Stick Frying Pan,Non-Perishable,1
+137,Bucket 20 Ltr,Non-Perishable,1
+137,Handbag Laced,Non-Perishable,1
+138,Amul Butter,Perishable,2
+138,Vijay Cheese,Perishable,1
+138,Venky's Chicken Sausage,Perishable,1
+138,Dinshaws 1 Ltr Ice Cream,Perishable,1
+138,Dinshaws 2 Litre Milk,Perishable,1
+138,Sunflower Oil 5 Ltr,Perishable,1
+138,1 Ltr Lichi Squash,Perishable,2
+138,Mango Juice 2 Ltr,Perishable,3
+138,Amul Butter 1 KG,Perishable,1
+138,Cottage Cheese Pack 1 KG,Perishable,2
+138,Singh's Ham 50 gms,Perishable,1
+138,Pepsi 2 Ltr,Perishable,1
+138,Coca Cola 2 Ltr,Perishable,1
+138,Chicken 2 KG Pack,Perishable,1
+138,Onion 5 Kg Pack,Perishable,1
+138,Potato 5 Kg Pack,Perishable,1
+138,Mushroom 250 gm Pack,Perishable,1
+138,Haldiram Snack 200 Gms,Perishable,1
+138,Domestos 5 ltr,Non-Perishable,2
+138,Sasa Washing Soap - 2 Pack,Non-Perishable,2
+138,Car Wax - 1 ltr,Non-Perishable,2
+138,Scrubber 1 pack,Non-Perishable,1
+138,Non-Stick Frying Pan,Non-Perishable,1
+138,Bucket 20 Ltr,Non-Perishable,1
+139,Amul Butter,Perishable,1
+139,Vijay Cheese,Perishable,3
+139,Venky's Chicken Sausage,Perishable,3
+139,Dinshaws 1 Ltr Ice Cream,Perishable,3
+139,Dinshaws 2 Litre Milk,Perishable,1
+139,Sunflower Oil 5 Ltr,Perishable,1
+139,1 Ltr Lichi Squash,Perishable,1
+139,Mango Juice 2 Ltr,Perishable,1
+139,Amul Butter 1 KG,Perishable,1
+139,Cottage Cheese Pack 1 KG,Perishable,2
+139,Singh's Ham 50 gms,Perishable,1
+139,Pepsi 2 Ltr,Perishable,1
+139,Coca Cola 2 Ltr,Perishable,1
+139,Chicken 2 KG Pack,Perishable,1
+139,Onion 5 Kg Pack,Perishable,1
+139,Potato 5 Kg Pack,Perishable,2
+139,Mushroom 250 gm Pack,Perishable,3
+139,Haldiram Snack 200 Gms,Perishable,1
+139,Domestos 5 ltr,Non-Perishable,2
+139,Sasa Washing Soap - 2 Pack,Non-Perishable,1
+139,Car Wax - 1 ltr,Non-Perishable,2
+139,Scrubber 1 pack,Non-Perishable,3
+139,Non-Stick Frying Pan,Non-Perishable,1
+140,Amul Butter,Perishable,2
+140,Vijay Cheese,Perishable,1
+140,Venky's Chicken Sausage,Perishable,1
+140,Dinshaws 1 Ltr Ice Cream,Perishable,1
+140,Dinshaws 2 Litre Milk,Perishable,1
+140,Sunflower Oil 5 Ltr,Perishable,1
+140,1 Ltr Lichi Squash,Perishable,1
+140,Mango Juice 2 Ltr,Perishable,1
+140,Amul Butter 1 KG,Perishable,1
+140,Cottage Cheese Pack 1 KG,Perishable,2
+140,Singh's Ham 50 gms,Perishable,2
+140,Pepsi 2 Ltr,Perishable,2
+140,Coca Cola 2 Ltr,Perishable,1
+140,Chicken 2 KG Pack,Perishable,1
+140,Onion 5 Kg Pack,Perishable,1
+140,Potato 5 Kg Pack,Perishable,1
+140,Mushroom 250 gm Pack,Perishable,3
+140,Haldiram Snack 200 Gms,Perishable,3
+140,Domestos 5 ltr,Non-Perishable,3
+140,Sasa Washing Soap - 2 Pack,Non-Perishable,1
+140,Car Wax - 1 ltr,Non-Perishable,1
+140,Scrubber 1 pack,Non-Perishable,1
+141,Amul Butter,Perishable,1
+141,Vijay Cheese,Perishable,1
+141,Venky's Chicken Sausage,Perishable,2
+141,Dinshaws 1 Ltr Ice Cream,Perishable,1
+141,Dinshaws 2 Litre Milk,Perishable,1
+141,Sunflower Oil 5 Ltr,Perishable,1
+141,1 Ltr Lichi Squash,Perishable,1
+141,Mango Juice 2 Ltr,Perishable,1
+141,Amul Butter 1 KG,Perishable,2
+141,Cottage Cheese Pack 1 KG,Perishable,3
+141,Singh's Ham 50 gms,Perishable,1
+141,Pepsi 2 Ltr,Perishable,2
+141,Coca Cola 2 Ltr,Perishable,1
+141,Chicken 2 KG Pack,Perishable,2
+141,Onion 5 Kg Pack,Perishable,3
+141,Potato 5 Kg Pack,Perishable,1
+141,Mushroom 250 gm Pack,Perishable,2
+141,Haldiram Snack 200 Gms,Perishable,1
+141,Domestos 5 ltr,Non-Perishable,1
+141,Sasa Washing Soap - 2 Pack,Non-Perishable,1
+141,Car Wax - 1 ltr,Non-Perishable,1
+142,Amul Butter,Perishable,1
+142,Vijay Cheese,Perishable,1
+142,Venky's Chicken Sausage,Perishable,1
+142,Dinshaws 1 Ltr Ice Cream,Perishable,1
+142,Dinshaws 2 Litre Milk,Perishable,2
+142,Sunflower Oil 5 Ltr,Perishable,1
+142,1 Ltr Lichi Squash,Perishable,1
+142,Mango Juice 2 Ltr,Perishable,1
+142,Amul Butter 1 KG,Perishable,1
+142,Cottage Cheese Pack 1 KG,Perishable,1
+142,Singh's Ham 50 gms,Perishable,1
+142,Pepsi 2 Ltr,Perishable,1
+142,Coca Cola 2 Ltr,Perishable,2
+142,Chicken 2 KG Pack,Perishable,2
+142,Onion 5 Kg Pack,Perishable,2
+142,Potato 5 Kg Pack,Perishable,1
+142,Mushroom 250 gm Pack,Perishable,1
+142,Haldiram Snack 200 Gms,Perishable,1
+142,Domestos 5 ltr,Non-Perishable,1
+142,Sasa Washing Soap - 2 Pack,Non-Perishable,3
+143,Amul Butter,Perishable,1
+143,Vijay Cheese,Perishable,1
+143,Venky's Chicken Sausage,Perishable,1
+143,Dinshaws 1 Ltr Ice Cream,Perishable,1
+143,Dinshaws 2 Litre Milk,Perishable,1
+143,Sunflower Oil 5 Ltr,Perishable,2
+143,1 Ltr Lichi Squash,Perishable,1
+143,Mango Juice 2 Ltr,Perishable,1
+143,Amul Butter 1 KG,Perishable,1
+143,Cottage Cheese Pack 1 KG,Perishable,1
+143,Singh's Ham 50 gms,Perishable,1
+143,Pepsi 2 Ltr,Perishable,2
+143,Coca Cola 2 Ltr,Perishable,3
+143,Chicken 2 KG Pack,Perishable,1
+143,Onion 5 Kg Pack,Perishable,2
+143,Potato 5 Kg Pack,Perishable,1
+143,Mushroom 250 gm Pack,Perishable,1
+143,Haldiram Snack 200 Gms,Perishable,1
+143,Domestos 5 ltr,Non-Perishable,1
+143,Amul Butter,Perishable,1
+144,Vijay Cheese,Perishable,1
+144,Venky's Chicken Sausage,Perishable,1
+144,Dinshaws 1 Ltr Ice Cream,Perishable,1
+144,Dinshaws 2 Litre Milk,Perishable,2
+144,Sunflower Oil 5 Ltr,Perishable,2
+144,1 Ltr Lichi Squash,Perishable,2
+144,Mango Juice 2 Ltr,Perishable,1
+144,Amul Butter 1 KG,Perishable,1
+144,Cottage Cheese Pack 1 KG,Perishable,1
+144,Singh's Ham 50 gms,Perishable,1
+144,Pepsi 2 Ltr,Perishable,3
+144,Coca Cola 2 Ltr,Perishable,3
+144,Chicken 2 KG Pack,Perishable,3
+144,Onion 5 Kg Pack,Perishable,1
+144,Potato 5 Kg Pack,Perishable,1
+144,Mushroom 250 gm Pack,Perishable,1
+144,Haldiram Snack 200 Gms,Perishable,1
+145,Amul Butter,Perishable,1
+145,Vijay Cheese,Perishable,2
+145,Venky's Chicken Sausage,Perishable,1
+145,Dinshaws 1 Ltr Ice Cream,Perishable,1
+145,Dinshaws 2 Litre Milk,Perishable,1
+145,Sunflower Oil 5 Ltr,Perishable,1
+145,1 Ltr Lichi Squash,Perishable,1
+145,Mango Juice 2 Ltr,Perishable,2
+145,Amul Butter 1 KG,Perishable,3
+145,Cottage Cheese Pack 1 KG,Perishable,1
+145,Singh's Ham 50 gms,Perishable,2
+145,Pepsi 2 Ltr,Perishable,1
+145,Coca Cola 2 Ltr,Perishable,2
+145,Chicken 2 KG Pack,Perishable,3
+145,Onion 5 Kg Pack,Perishable,1
+145,Potato 5 Kg Pack,Perishable,2
+145,Mushroom 250 gm Pack,Perishable,1
+146,Amul Butter,Perishable,1
+146,Vijay Cheese,Perishable,1
+146,Venky's Chicken Sausage,Perishable,1
+146,Dinshaws 1 Ltr Ice Cream,Perishable,1
+146,Dinshaws 2 Litre Milk,Perishable,1
+146,Sunflower Oil 5 Ltr,Perishable,1
+146,1 Ltr Lichi Squash,Perishable,1
+146,Mango Juice 2 Ltr,Perishable,2
+146,Amul Butter 1 KG,Perishable,2
+146,Cottage Cheese Pack 1 KG,Perishable,2
+146,Singh's Ham 50 gms,Perishable,1
+146,Pepsi 2 Ltr,Perishable,1
+146,Coca Cola 2 Ltr,Perishable,1
+146,Chicken 2 KG Pack,Perishable,1
+146,Onion 5 Kg Pack,Perishable,3
+146,Potato 5 Kg Pack,Perishable,3
+147,Amul Butter,Perishable,3
+147,Vijay Cheese,Perishable,1
+147,Venky's Chicken Sausage,Perishable,1
+147,Dinshaws 1 Ltr Ice Cream,Perishable,1
+147,Dinshaws 2 Litre Milk,Perishable,1
+147,Sunflower Oil 5 Ltr,Perishable,1
+147,1 Ltr Lichi Squash,Perishable,2
+147,Mango Juice 2 Ltr,Perishable,1
+147,Amul Butter 1 KG,Perishable,1
+147,Cottage Cheese Pack 1 KG,Perishable,1
+147,Singh's Ham 50 gms,Perishable,1
+147,Pepsi 2 Ltr,Perishable,1
+147,Coca Cola 2 Ltr,Perishable,2
+147,Chicken 2 KG Pack,Perishable,3
+147,Onion 5 Kg Pack,Perishable,1
+148,Amul Butter,Perishable,2
+148,Vijay Cheese,Perishable,1
+148,Venky's Chicken Sausage,Perishable,2
+148,Dinshaws 1 Ltr Ice Cream,Perishable,3
+148,Dinshaws 2 Litre Milk,Perishable,1
+148,Sunflower Oil 5 Ltr,Perishable,2
+148,1 Ltr Lichi Squash,Perishable,1
+148,Mango Juice 2 Ltr,Perishable,1
+148,Amul Butter 1 KG,Perishable,1
+148,Cottage Cheese Pack 1 KG,Perishable,1
+148,Singh's Ham 50 gms,Perishable,1
+148,Pepsi 2 Ltr,Perishable,1
+148,Coca Cola 2 Ltr,Perishable,1
+148,Chicken 2 KG Pack,Perishable,1
+149,Amul Butter,Perishable,2
+149,Vijay Cheese,Perishable,1
+149,Venky's Chicken Sausage,Perishable,1
+149,Dinshaws 1 Ltr Ice Cream,Perishable,1
+149,Dinshaws 2 Litre Milk,Perishable,1
+149,Sunflower Oil 5 Ltr,Perishable,1
+149,1 Ltr Lichi Squash,Perishable,1
+149,Mango Juice 2 Ltr,Perishable,1
+149,Amul Butter 1 KG,Perishable,2
+149,Cottage Cheese Pack 1 KG,Perishable,1
+149,Singh's Ham 50 gms,Perishable,1
+149,Pepsi 2 Ltr,Perishable,1
+149,Coca Cola 2 Ltr,Perishable,1
+150,Amul Butter,Perishable,1
+150,Vijay Cheese,Perishable,1
+150,Venky's Chicken Sausage,Perishable,1
+150,Dinshaws 1 Ltr Ice Cream,Perishable,2
+150,Dinshaws 2 Litre Milk,Perishable,2
+150,Sunflower Oil 5 Ltr,Perishable,2
+150,1 Ltr Lichi Squash,Perishable,1
+150,Mango Juice 2 Ltr,Perishable,1
+150,Amul Butter 1 KG,Perishable,1
+150,Cottage Cheese Pack 1 KG,Perishable,1
+150,Singh's Ham 50 gms,Perishable,3
+150,Pepsi 2 Ltr,Perishable,3
+151,Amul Butter,Perishable,3
+151,Vijay Cheese,Perishable,1
+151,Venky's Chicken Sausage,Perishable,1
+151,Dinshaws 1 Ltr Ice Cream,Perishable,1
+151,Dinshaws 2 Litre Milk,Perishable,1
+151,Sunflower Oil 5 Ltr,Perishable,1
+151,1 Ltr Lichi Squash,Perishable,2
+151,Mango Juice 2 Ltr,Perishable,1
+151,Amul Butter 1 KG,Perishable,1
+151,Cottage Cheese Pack 1 KG,Perishable,1
+151,Singh's Ham 50 gms,Perishable,1
+152,Amul Butter,Perishable,1
+152,Vijay Cheese,Perishable,2
+152,Venky's Chicken Sausage,Perishable,3
+152,Dinshaws 1 Ltr Ice Cream,Perishable,1
+152,Dinshaws 2 Litre Milk,Perishable,2
+152,Sunflower Oil 5 Ltr,Perishable,1
+152,1 Ltr Lichi Squash,Perishable,1
+152,Mango Juice 2 Ltr,Perishable,1
+152,Amul Butter 1 KG,Perishable,1
+152,Cottage Cheese Pack 1 KG,Perishable,1
+152,Singh's Ham 50 gms,Perishable,1
+153,Amul Butter,Perishable,1
+153,Vijay Cheese,Perishable,1
+153,Venky's Chicken Sausage,Perishable,2
+153,Dinshaws 1 Ltr Ice Cream,Perishable,2
+153,Dinshaws 2 Litre Milk,Perishable,2
+153,Sunflower Oil 5 Ltr,Perishable,1
+153,1 Ltr Lichi Squash,Perishable,1
+153,Mango Juice 2 Ltr,Perishable,1
+153,Amul Butter 1 KG,Perishable,1
+153,Cottage Cheese Pack 1 KG,Perishable,3
+154,Amul Butter,Perishable,3
+154,Vijay Cheese,Perishable,3
+154,Venky's Chicken Sausage,Perishable,1
+154,Dinshaws 1 Ltr Ice Cream,Perishable,1
+154,Dinshaws 2 Litre Milk,Perishable,1
+154,Sunflower Oil 5 Ltr,Perishable,1
+154,1 Ltr Lichi Squash,Perishable,1
+154,Mango Juice 2 Ltr,Perishable,2
+154,Amul Butter 1 KG,Perishable,1
+155,Amul Butter,Perishable,1
+155,Vijay Cheese,Perishable,1
+155,Venky's Chicken Sausage,Perishable,1
+155,Dinshaws 1 Ltr Ice Cream,Perishable,1
+155,Dinshaws 2 Litre Milk,Perishable,2
+155,Sunflower Oil 5 Ltr,Perishable,3
+155,1 Ltr Lichi Squash,Perishable,1
+155,Mango Juice 2 Ltr,Perishable,2
+156,Amul Butter,Perishable,1
+156,Vijay Cheese,Perishable,2
+156,Venky's Chicken Sausage,Perishable,3
+156,Dinshaws 1 Ltr Ice Cream,Perishable,1
+156,Dinshaws 2 Litre Milk,Perishable,2
+156,Sunflower Oil 5 Ltr,Perishable,1
+156,1 Ltr Lichi Squash,Perishable,1
+157,Amul Butter,Perishable,1
+157,Vijay Cheese,Perishable,1
+157,Venky's Chicken Sausage,Perishable,1
+157,Dinshaws 1 Ltr Ice Cream,Perishable,1
+157,Dinshaws 2 Litre Milk,Perishable,1
+157,Sunflower Oil 5 Ltr,Perishable,1
+158,Amul Butter,Perishable,2
+158,Vijay Cheese,Perishable,2
+158,Venky's Chicken Sausage,Perishable,2
+158,Dinshaws 1 Ltr Ice Cream,Perishable,1
+158,Dinshaws 2 Litre Milk,Perishable,1
+159,Amul Butter,Perishable,1
+159,Vijay Cheese,Perishable,1
+159,Venky's Chicken Sausage,Perishable,3
+159,Dinshaws 1 Ltr Ice Cream,Perishable,3
+160,Amul Butter,Perishable,3
+160,Vijay Cheese,Perishable,1
+160,Venky's Chicken Sausage,Perishable,1
+161,Amul Butter,Perishable,1
+161,Vijay Cheese,Perishable,1
+162,Amul Butter,Perishable,1
+163,Amul Butter,Perishable,2
+163,Vijay Cheese,Perishable,1
+163,Venky's Chicken Sausage,Perishable,1
+163,Dinshaws 1 Ltr Ice Cream,Perishable,1
+163,Dinshaws 2 Litre Milk,Perishable,1
+163,Sunflower Oil 5 Ltr,Perishable,1
+163,1 Ltr Lichi Squash,Perishable,2
+163,Mango Juice 2 Ltr,Perishable,3
+163,Amul Butter 1 KG,Perishable,1
+163,Cottage Cheese Pack 1 KG,Perishable,2
+163,Singh's Ham 50 gms,Perishable,1
+163,Pepsi 2 Ltr,Perishable,2
+163,Coca Cola 2 Ltr,Perishable,3
+163,Chicken 2 KG Pack,Perishable,1
+163,Onion 5 Kg Pack,Perishable,2
+163,Potato 5 Kg Pack,Perishable,1
+163,Mushroom 250 gm Pack,Perishable,1
+163,Haldiram Snack 200 Gms,Perishable,1
+163,Domestos 5 ltr,Non-Perishable,1
+163,Sasa Washing Soap - 2 Pack,Non-Perishable,1
+163,Car Wax - 1 ltr,Non-Perishable,1
+163,Scrubber 1 pack,Non-Perishable,1
+163,Non-Stick Frying Pan,Non-Perishable,1
+163,Bucket 20 Ltr,Non-Perishable,2
+163,Handbag Laced,Non-Perishable,1
+163,Belt 36 Inch,Non-Perishable,1
+164,Amul Butter,Perishable,1
+164,Vijay Cheese,Perishable,1
+164,Venky's Chicken Sausage,Perishable,1
+164,Dinshaws 1 Ltr Ice Cream,Perishable,1
+164,Dinshaws 2 Litre Milk,Perishable,1
+164,Sunflower Oil 5 Ltr,Perishable,2
+164,1 Ltr Lichi Squash,Perishable,2
+164,Mango Juice 2 Ltr,Perishable,2
+164,Amul Butter 1 KG,Perishable,1
+164,Cottage Cheese Pack 1 KG,Perishable,1
+164,Singh's Ham 50 gms,Perishable,1
+164,Pepsi 2 Ltr,Perishable,1
+164,Coca Cola 2 Ltr,Perishable,3
+164,Chicken 2 KG Pack,Perishable,1
+164,Onion 5 Kg Pack,Perishable,1
+164,Potato 5 Kg Pack,Perishable,1
+164,Mushroom 250 gm Pack,Perishable,1
+164,Haldiram Snack 200 Gms,Perishable,1
+164,Domestos 5 ltr,Non-Perishable,2
+164,Sasa Washing Soap - 2 Pack,Non-Perishable,1
+164,Car Wax - 1 ltr,Non-Perishable,1
+164,Scrubber 1 pack,Non-Perishable,1
+164,Non-Stick Frying Pan,Non-Perishable,1
+164,Bucket 20 Ltr,Non-Perishable,1
+164,Handbag Laced,Non-Perishable,2
+165,Amul Butter,Perishable,3
+165,Vijay Cheese,Perishable,1
+165,Venky's Chicken Sausage,Perishable,2
+165,Dinshaws 1 Ltr Ice Cream,Perishable,1
+165,Dinshaws 2 Litre Milk,Perishable,1
+165,Sunflower Oil 5 Ltr,Perishable,1
+165,1 Ltr Lichi Squash,Perishable,1
+165,Mango Juice 2 Ltr,Perishable,1
+165,Amul Butter 1 KG,Perishable,1
+165,Cottage Cheese Pack 1 KG,Perishable,1
+165,Singh's Ham 50 gms,Perishable,1
+165,Pepsi 2 Ltr,Perishable,2
+165,Coca Cola 2 Ltr,Perishable,2
+165,Chicken 2 KG Pack,Perishable,2
+165,Onion 5 Kg Pack,Perishable,1
+165,Potato 5 Kg Pack,Perishable,1
+165,Mushroom 250 gm Pack,Perishable,1
+165,Haldiram Snack 200 Gms,Perishable,1
+165,Domestos 5 ltr,Non-Perishable,3
+165,Sasa Washing Soap - 2 Pack,Non-Perishable,3
+165,Car Wax - 1 ltr,Non-Perishable,3
+165,Scrubber 1 pack,Non-Perishable,1
+165,Non-Stick Frying Pan,Non-Perishable,1
+165,Bucket 20 Ltr,Non-Perishable,1
+166,Amul Butter,Perishable,1
+166,Vijay Cheese,Perishable,1
+166,Venky's Chicken Sausage,Perishable,2
+166,Dinshaws 1 Ltr Ice Cream,Perishable,1
+166,Dinshaws 2 Litre Milk,Perishable,1
+166,Sunflower Oil 5 Ltr,Perishable,1
+166,1 Ltr Lichi Squash,Perishable,1
+166,Mango Juice 2 Ltr,Perishable,1
+166,Amul Butter 1 KG,Perishable,2
+166,Cottage Cheese Pack 1 KG,Perishable,3
+166,Singh's Ham 50 gms,Perishable,1
+166,Pepsi 2 Ltr,Perishable,2
+166,Coca Cola 2 Ltr,Perishable,1
+166,Chicken 2 KG Pack,Perishable,2
+166,Onion 5 Kg Pack,Perishable,3
+166,Potato 5 Kg Pack,Perishable,1
+166,Mushroom 250 gm Pack,Perishable,2
+166,Haldiram Snack 200 Gms,Perishable,1
+166,Domestos 5 ltr,Non-Perishable,1
+166,Sasa Washing Soap - 2 Pack,Non-Perishable,1
+166,Car Wax - 1 ltr,Non-Perishable,1
+166,Scrubber 1 pack,Non-Perishable,1
+166,Non-Stick Frying Pan,Non-Perishable,1
+167,Amul Butter,Perishable,1
+167,Vijay Cheese,Perishable,1
+167,Venky's Chicken Sausage,Perishable,2
+167,Dinshaws 1 Ltr Ice Cream,Perishable,2
+167,Dinshaws 2 Litre Milk,Perishable,2
+167,Sunflower Oil 5 Ltr,Perishable,1
+167,1 Ltr Lichi Squash,Perishable,1
+167,Mango Juice 2 Ltr,Perishable,1
+167,Amul Butter 1 KG,Perishable,1
+167,Cottage Cheese Pack 1 KG,Perishable,3
+167,Singh's Ham 50 gms,Perishable,3
+167,Pepsi 2 Ltr,Perishable,3
+167,Coca Cola 2 Ltr,Perishable,1
+167,Chicken 2 KG Pack,Perishable,1
+167,Onion 5 Kg Pack,Perishable,1
+167,Potato 5 Kg Pack,Perishable,1
+167,Mushroom 250 gm Pack,Perishable,1
+167,Haldiram Snack 200 Gms,Perishable,2
+167,Domestos 5 ltr,Non-Perishable,1
+167,Sasa Washing Soap - 2 Pack,Non-Perishable,1
+167,Car Wax - 1 ltr,Non-Perishable,1
+167,Scrubber 1 pack,Non-Perishable,1
+168,Amul Butter,Perishable,1
+168,Vijay Cheese,Perishable,2
+168,Venky's Chicken Sausage,Perishable,3
+168,Dinshaws 1 Ltr Ice Cream,Perishable,1
+168,Dinshaws 2 Litre Milk,Perishable,2
+168,Sunflower Oil 5 Ltr,Perishable,1
+168,1 Ltr Lichi Squash,Perishable,2
+168,Mango Juice 2 Ltr,Perishable,3
+168,Amul Butter 1 KG,Perishable,1
+168,Cottage Cheese Pack 1 KG,Perishable,2
+168,Singh's Ham 50 gms,Perishable,1
+168,Pepsi 2 Ltr,Perishable,1
+168,Coca Cola 2 Ltr,Perishable,1
+168,Chicken 2 KG Pack,Perishable,1
+168,Onion 5 Kg Pack,Perishable,1
+168,Potato 5 Kg Pack,Perishable,1
+168,Mushroom 250 gm Pack,Perishable,1
+168,Haldiram Snack 200 Gms,Perishable,1
+168,Domestos 5 ltr,Non-Perishable,2
+168,Sasa Washing Soap - 2 Pack,Non-Perishable,1
+168,Car Wax - 1 ltr,Non-Perishable,1
+169,Amul Butter,Perishable,1
+169,Vijay Cheese,Perishable,1
+169,Venky's Chicken Sausage,Perishable,1
+169,Dinshaws 1 Ltr Ice Cream,Perishable,1
+169,Dinshaws 2 Litre Milk,Perishable,1
+169,Sunflower Oil 5 Ltr,Perishable,2
+169,1 Ltr Lichi Squash,Perishable,2
+169,Mango Juice 2 Ltr,Perishable,2
+169,Amul Butter 1 KG,Perishable,1
+169,Cottage Cheese Pack 1 KG,Perishable,1
+169,Singh's Ham 50 gms,Perishable,1
+169,Pepsi 2 Ltr,Perishable,1
+169,Coca Cola 2 Ltr,Perishable,3
+169,Chicken 2 KG Pack,Perishable,1
+169,Onion 5 Kg Pack,Perishable,1
+169,Potato 5 Kg Pack,Perishable,1
+169,Mushroom 250 gm Pack,Perishable,1
+169,Haldiram Snack 200 Gms,Perishable,1
+169,Domestos 5 ltr,Non-Perishable,2
+169,Sasa Washing Soap - 2 Pack,Non-Perishable,1
+170,Amul Butter,Perishable,1
+170,Vijay Cheese,Perishable,1
+170,Venky's Chicken Sausage,Perishable,1
+170,Dinshaws 1 Ltr Ice Cream,Perishable,1
+170,Dinshaws 2 Litre Milk,Perishable,2
+170,Sunflower Oil 5 Ltr,Perishable,3
+170,1 Ltr Lichi Squash,Perishable,1
+170,Mango Juice 2 Ltr,Perishable,2
+170,Amul Butter 1 KG,Perishable,1
+170,Cottage Cheese Pack 1 KG,Perishable,1
+170,Singh's Ham 50 gms,Perishable,1
+170,Pepsi 2 Ltr,Perishable,1
+170,Coca Cola 2 Ltr,Perishable,1
+170,Chicken 2 KG Pack,Perishable,1
+170,Onion 5 Kg Pack,Perishable,1
+170,Potato 5 Kg Pack,Perishable,1
+170,Mushroom 250 gm Pack,Perishable,2
+170,Haldiram Snack 200 Gms,Perishable,2
+170,Domestos 5 ltr,Non-Perishable,2
+170,Amul Butter,Perishable,1
+171,Vijay Cheese,Perishable,1
+171,Venky's Chicken Sausage,Perishable,1
+171,Dinshaws 1 Ltr Ice Cream,Perishable,1
+171,Dinshaws 2 Litre Milk,Perishable,3
+171,Sunflower Oil 5 Ltr,Perishable,3
+171,1 Ltr Lichi Squash,Perishable,3
+171,Mango Juice 2 Ltr,Perishable,1
+171,Amul Butter 1 KG,Perishable,1
+171,Cottage Cheese Pack 1 KG,Perishable,1
+171,Singh's Ham 50 gms,Perishable,1
+171,Pepsi 2 Ltr,Perishable,1
+171,Coca Cola 2 Ltr,Perishable,2
+171,Chicken 2 KG Pack,Perishable,1
+171,Onion 5 Kg Pack,Perishable,1
+171,Potato 5 Kg Pack,Perishable,1
+171,Mushroom 250 gm Pack,Perishable,1
+171,Haldiram Snack 200 Gms,Perishable,1
+172,Amul Butter,Perishable,2
+172,Vijay Cheese,Perishable,3
+172,Venky's Chicken Sausage,Perishable,1
+172,Dinshaws 1 Ltr Ice Cream,Perishable,2
+172,Dinshaws 2 Litre Milk,Perishable,1
+172,Sunflower Oil 5 Ltr,Perishable,2
+172,1 Ltr Lichi Squash,Perishable,3
+172,Mango Juice 2 Ltr,Perishable,1
+172,Amul Butter 1 KG,Perishable,2
+172,Cottage Cheese Pack 1 KG,Perishable,1
+172,Singh's Ham 50 gms,Perishable,1
+172,Pepsi 2 Ltr,Perishable,1
+172,Coca Cola 2 Ltr,Perishable,1
+172,Chicken 2 KG Pack,Perishable,1
+172,Onion 5 Kg Pack,Perishable,1
+172,Potato 5 Kg Pack,Perishable,1
+172,Mushroom 250 gm Pack,Perishable,1
+173,Amul Butter,Perishable,2
+173,Vijay Cheese,Perishable,2
+173,Venky's Chicken Sausage,Perishable,2
+173,Dinshaws 1 Ltr Ice Cream,Perishable,1
+173,Dinshaws 2 Litre Milk,Perishable,1
+173,Sunflower Oil 5 Ltr,Perishable,1
+173,1 Ltr Lichi Squash,Perishable,1
+173,Mango Juice 2 Ltr,Perishable,3
+173,Amul Butter 1 KG,Perishable,3
+173,Cottage Cheese Pack 1 KG,Perishable,3
+173,Singh's Ham 50 gms,Perishable,1
+173,Pepsi 2 Ltr,Perishable,1
+173,Coca Cola 2 Ltr,Perishable,1
+173,Chicken 2 KG Pack,Perishable,1
+173,Onion 5 Kg Pack,Perishable,1
+173,Potato 5 Kg Pack,Perishable,2
+174,Amul Butter,Perishable,1
+174,Vijay Cheese,Perishable,1
+174,Venky's Chicken Sausage,Perishable,1
+174,Dinshaws 1 Ltr Ice Cream,Perishable,1
+174,Dinshaws 2 Litre Milk,Perishable,1
+174,Sunflower Oil 5 Ltr,Perishable,2
+174,1 Ltr Lichi Squash,Perishable,3
+174,Mango Juice 2 Ltr,Perishable,1
+174,Amul Butter 1 KG,Perishable,2
+174,Cottage Cheese Pack 1 KG,Perishable,1
+174,Singh's Ham 50 gms,Perishable,2
+174,Pepsi 2 Ltr,Perishable,3
+174,Coca Cola 2 Ltr,Perishable,1
+174,Chicken 2 KG Pack,Perishable,2
+174,Onion 5 Kg Pack,Perishable,1
+175,Amul Butter,Perishable,1
+175,Vijay Cheese,Perishable,1
+175,Venky's Chicken Sausage,Perishable,1
+175,Dinshaws 1 Ltr Ice Cream,Perishable,1
+175,Dinshaws 2 Litre Milk,Perishable,1
+175,Sunflower Oil 5 Ltr,Perishable,1
+175,1 Ltr Lichi Squash,Perishable,1
+175,Mango Juice 2 Ltr,Perishable,2
+175,Amul Butter 1 KG,Perishable,1
+175,Cottage Cheese Pack 1 KG,Perishable,1
+175,Singh's Ham 50 gms,Perishable,1
+175,Pepsi 2 Ltr,Perishable,1
+175,Coca Cola 2 Ltr,Perishable,1
+175,Chicken 2 KG Pack,Perishable,1
+176,Amul Butter,Perishable,1
+176,Vijay Cheese,Perishable,2
+176,Venky's Chicken Sausage,Perishable,1
+176,Dinshaws 1 Ltr Ice Cream,Perishable,1
+176,Dinshaws 2 Litre Milk,Perishable,1
+176,Sunflower Oil 5 Ltr,Perishable,1
+176,1 Ltr Lichi Squash,Perishable,1
+176,Mango Juice 2 Ltr,Perishable,2
+176,Amul Butter 1 KG,Perishable,1
+176,Cottage Cheese Pack 1 KG,Perishable,1
+176,Singh's Ham 50 gms,Perishable,1
+176,Pepsi 2 Ltr,Perishable,1
+176,Coca Cola 2 Ltr,Perishable,1
+177,Amul Butter,Perishable,2
+177,Vijay Cheese,Perishable,3
+177,Venky's Chicken Sausage,Perishable,1
+177,Dinshaws 1 Ltr Ice Cream,Perishable,2
+177,Dinshaws 2 Litre Milk,Perishable,1
+177,Sunflower Oil 5 Ltr,Perishable,1
+177,1 Ltr Lichi Squash,Perishable,1
+177,Mango Juice 2 Ltr,Perishable,1
+177,Amul Butter 1 KG,Perishable,1
+177,Cottage Cheese Pack 1 KG,Perishable,1
+177,Singh's Ham 50 gms,Perishable,1
+177,Pepsi 2 Ltr,Perishable,1
+178,Amul Butter,Perishable,2
+178,Vijay Cheese,Perishable,2
+178,Venky's Chicken Sausage,Perishable,2
+178,Dinshaws 1 Ltr Ice Cream,Perishable,1
+178,Dinshaws 2 Litre Milk,Perishable,1
+178,Sunflower Oil 5 Ltr,Perishable,1
+178,1 Ltr Lichi Squash,Perishable,1
+178,Mango Juice 2 Ltr,Perishable,3
+178,Amul Butter 1 KG,Perishable,3
+178,Cottage Cheese Pack 1 KG,Perishable,3
+178,Singh's Ham 50 gms,Perishable,1
+179,Amul Butter,Perishable,1
+179,Vijay Cheese,Perishable,1
+179,Venky's Chicken Sausage,Perishable,1
+179,Dinshaws 1 Ltr Ice Cream,Perishable,1
+179,Dinshaws 2 Litre Milk,Perishable,2
+179,Sunflower Oil 5 Ltr,Perishable,1
+179,1 Ltr Lichi Squash,Perishable,1
+179,Mango Juice 2 Ltr,Perishable,1
+179,Amul Butter 1 KG,Perishable,1
+179,Cottage Cheese Pack 1 KG,Perishable,1
+179,Singh's Ham 50 gms,Perishable,2
+180,Amul Butter,Perishable,3
+180,Vijay Cheese,Perishable,1
+180,Venky's Chicken Sausage,Perishable,2
+180,Dinshaws 1 Ltr Ice Cream,Perishable,1
+180,Dinshaws 2 Litre Milk,Perishable,2
+180,Sunflower Oil 5 Ltr,Perishable,3
+180,1 Ltr Lichi Squash,Perishable,1
+180,Mango Juice 2 Ltr,Perishable,2
+180,Amul Butter 1 KG,Perishable,1
+180,Cottage Cheese Pack 1 KG,Perishable,1
+181,Amul Butter,Perishable,1
+181,Vijay Cheese,Perishable,1
+181,Venky's Chicken Sausage,Perishable,1
+181,Dinshaws 1 Ltr Ice Cream,Perishable,1
+181,Dinshaws 2 Litre Milk,Perishable,1
+181,Sunflower Oil 5 Ltr,Perishable,1
+181,1 Ltr Lichi Squash,Perishable,2
+181,Mango Juice 2 Ltr,Perishable,2
+181,Amul Butter 1 KG,Perishable,2
+182,Amul Butter,Perishable,1
+182,Vijay Cheese,Perishable,1
+182,Venky's Chicken Sausage,Perishable,1
+182,Dinshaws 1 Ltr Ice Cream,Perishable,1
+182,Dinshaws 2 Litre Milk,Perishable,3
+182,Sunflower Oil 5 Ltr,Perishable,3
+182,1 Ltr Lichi Squash,Perishable,3
+182,Mango Juice 2 Ltr,Perishable,1
+183,Amul Butter,Perishable,1
+183,Vijay Cheese,Perishable,1
+183,Venky's Chicken Sausage,Perishable,1
+183,Dinshaws 1 Ltr Ice Cream,Perishable,1
+183,Dinshaws 2 Litre Milk,Perishable,2
+183,Sunflower Oil 5 Ltr,Perishable,1
+183,1 Ltr Lichi Squash,Perishable,1
+184,Amul Butter,Perishable,1
+184,Vijay Cheese,Perishable,1
+184,Venky's Chicken Sausage,Perishable,1
+184,Dinshaws 1 Ltr Ice Cream,Perishable,2
+184,Dinshaws 2 Litre Milk,Perishable,3
+184,Sunflower Oil 5 Ltr,Perishable,1
+185,Amul Butter,Perishable,2
+185,Vijay Cheese,Perishable,1
+185,Venky's Chicken Sausage,Perishable,2
+185,Dinshaws 1 Ltr Ice Cream,Perishable,3
+185,Dinshaws 2 Litre Milk,Perishable,1
+186,Amul Butter,Perishable,2
+186,Vijay Cheese,Perishable,1
+186,Venky's Chicken Sausage,Perishable,1
+186,Dinshaws 1 Ltr Ice Cream,Perishable,1
+187,Amul Butter,Perishable,1
+187,Vijay Cheese,Perishable,1
+187,Venky's Chicken Sausage,Perishable,1
+188,Amul Butter,Perishable,1
+188,Vijay Cheese,Perishable,1
+189,Amul Butter,Perishable,2
+190,Amul Butter,Perishable,1
+190,Vijay Cheese,Perishable,1
+190,Venky's Chicken Sausage,Perishable,1
+190,Dinshaws 1 Ltr Ice Cream,Perishable,1
+190,Dinshaws 2 Litre Milk,Perishable,1
+190,Sunflower Oil 5 Ltr,Perishable,1
+190,1 Ltr Lichi Squash,Perishable,1
+190,Mango Juice 2 Ltr,Perishable,2
+190,Amul Butter 1 KG,Perishable,2
+190,Cottage Cheese Pack 1 KG,Perishable,2
+190,Singh's Ham 50 gms,Perishable,1
+190,Pepsi 2 Ltr,Perishable,1
+190,Coca Cola 2 Ltr,Perishable,1
+190,Chicken 2 KG Pack,Perishable,1
+190,Onion 5 Kg Pack,Perishable,3
+190,Potato 5 Kg Pack,Perishable,1
+190,Mushroom 250 gm Pack,Perishable,1
+190,Haldiram Snack 200 Gms,Perishable,1
+190,Domestos 5 ltr,Non-Perishable,1
+190,Sasa Washing Soap - 2 Pack,Non-Perishable,1
+190,Car Wax - 1 ltr,Non-Perishable,2
+190,Scrubber 1 pack,Non-Perishable,1
+190,Non-Stick Frying Pan,Non-Perishable,1
+190,Bucket 20 Ltr,Non-Perishable,1
+190,Handbag Laced,Non-Perishable,1
+190,Belt 36 Inch,Non-Perishable,1
+191,Amul Butter,Perishable,2
+191,Vijay Cheese,Perishable,3
+191,Venky's Chicken Sausage,Perishable,1
+191,Dinshaws 1 Ltr Ice Cream,Perishable,2
+191,Dinshaws 2 Litre Milk,Perishable,1
+191,Sunflower Oil 5 Ltr,Perishable,1
+191,1 Ltr Lichi Squash,Perishable,1
+191,Mango Juice 2 Ltr,Perishable,1
+191,Amul Butter 1 KG,Perishable,1
+191,Cottage Cheese Pack 1 KG,Perishable,1
+191,Singh's Ham 50 gms,Perishable,1
+191,Pepsi 2 Ltr,Perishable,1
+191,Coca Cola 2 Ltr,Perishable,2
+191,Chicken 2 KG Pack,Perishable,2
+191,Onion 5 Kg Pack,Perishable,2
+191,Potato 5 Kg Pack,Perishable,1
+191,Mushroom 250 gm Pack,Perishable,1
+191,Haldiram Snack 200 Gms,Perishable,1
+191,Domestos 5 ltr,Non-Perishable,1
+191,Sasa Washing Soap - 2 Pack,Non-Perishable,3
+191,Car Wax - 1 ltr,Non-Perishable,3
+191,Scrubber 1 pack,Non-Perishable,3
+191,Non-Stick Frying Pan,Non-Perishable,1
+191,Bucket 20 Ltr,Non-Perishable,1
+191,Handbag Laced,Non-Perishable,1
+192,Amul Butter,Perishable,1
+192,Vijay Cheese,Perishable,1
+192,Venky's Chicken Sausage,Perishable,2
+192,Dinshaws 1 Ltr Ice Cream,Perishable,1
+192,Dinshaws 2 Litre Milk,Perishable,1
+192,Sunflower Oil 5 Ltr,Perishable,1
+192,1 Ltr Lichi Squash,Perishable,1
+192,Mango Juice 2 Ltr,Perishable,1
+192,Amul Butter 1 KG,Perishable,2
+192,Cottage Cheese Pack 1 KG,Perishable,3
+192,Singh's Ham 50 gms,Perishable,1
+192,Pepsi 2 Ltr,Perishable,2
+192,Coca Cola 2 Ltr,Perishable,1
+192,Chicken 2 KG Pack,Perishable,2
+192,Onion 5 Kg Pack,Perishable,3
+192,Potato 5 Kg Pack,Perishable,1
+192,Mushroom 250 gm Pack,Perishable,2
+192,Haldiram Snack 200 Gms,Perishable,1
+192,Domestos 5 ltr,Non-Perishable,1
+192,Sasa Washing Soap - 2 Pack,Non-Perishable,1
+192,Car Wax - 1 ltr,Non-Perishable,1
+192,Scrubber 1 pack,Non-Perishable,1
+192,Non-Stick Frying Pan,Non-Perishable,1
+192,Bucket 20 Ltr,Non-Perishable,1
+193,Amul Butter,Perishable,1
+193,Vijay Cheese,Perishable,2
+193,Venky's Chicken Sausage,Perishable,2
+193,Dinshaws 1 Ltr Ice Cream,Perishable,2
+193,Dinshaws 2 Litre Milk,Perishable,1
+193,Sunflower Oil 5 Ltr,Perishable,1
+193,1 Ltr Lichi Squash,Perishable,1
+193,Mango Juice 2 Ltr,Perishable,1
+193,Amul Butter 1 KG,Perishable,3
+193,Cottage Cheese Pack 1 KG,Perishable,3
+193,Singh's Ham 50 gms,Perishable,3
+193,Pepsi 2 Ltr,Perishable,1
+193,Coca Cola 2 Ltr,Perishable,1
+193,Chicken 2 KG Pack,Perishable,1
+193,Onion 5 Kg Pack,Perishable,1
+193,Potato 5 Kg Pack,Perishable,1
+193,Mushroom 250 gm Pack,Perishable,2
+193,Haldiram Snack 200 Gms,Perishable,1
+193,Domestos 5 ltr,Non-Perishable,1
+193,Sasa Washing Soap - 2 Pack,Non-Perishable,1
+193,Car Wax - 1 ltr,Non-Perishable,1
+193,Scrubber 1 pack,Non-Perishable,1
+193,Non-Stick Frying Pan,Non-Perishable,2
+194,Amul Butter,Perishable,3
+194,Vijay Cheese,Perishable,1
+194,Venky's Chicken Sausage,Perishable,2
+194,Dinshaws 1 Ltr Ice Cream,Perishable,1
+194,Dinshaws 2 Litre Milk,Perishable,2
+194,Sunflower Oil 5 Ltr,Perishable,3
+194,1 Ltr Lichi Squash,Perishable,1
+194,Mango Juice 2 Ltr,Perishable,2
+194,Amul Butter 1 KG,Perishable,1
+194,Cottage Cheese Pack 1 KG,Perishable,1
+194,Singh's Ham 50 gms,Perishable,1
+194,Pepsi 2 Ltr,Perishable,1
+194,Coca Cola 2 Ltr,Perishable,1
+194,Chicken 2 KG Pack,Perishable,1
+194,Onion 5 Kg Pack,Perishable,1
+194,Potato 5 Kg Pack,Perishable,1
+194,Mushroom 250 gm Pack,Perishable,2
+194,Haldiram Snack 200 Gms,Perishable,1
+194,Domestos 5 ltr,Non-Perishable,1
+194,Sasa Washing Soap - 2 Pack,Non-Perishable,1
+194,Car Wax - 1 ltr,Non-Perishable,1
+194,Scrubber 1 pack,Non-Perishable,1
+195,Amul Butter,Perishable,1
+195,Vijay Cheese,Perishable,1
+195,Venky's Chicken Sausage,Perishable,2
+195,Dinshaws 1 Ltr Ice Cream,Perishable,2
+195,Dinshaws 2 Litre Milk,Perishable,2
+195,Sunflower Oil 5 Ltr,Perishable,1
+195,1 Ltr Lichi Squash,Perishable,1
+195,Mango Juice 2 Ltr,Perishable,1
+195,Amul Butter 1 KG,Perishable,1
+195,Cottage Cheese Pack 1 KG,Perishable,3
+195,Singh's Ham 50 gms,Perishable,1
+195,Pepsi 2 Ltr,Perishable,1
+195,Coca Cola 2 Ltr,Perishable,1
+195,Chicken 2 KG Pack,Perishable,1
+195,Onion 5 Kg Pack,Perishable,1
+195,Potato 5 Kg Pack,Perishable,2
+195,Mushroom 250 gm Pack,Perishable,1
+195,Haldiram Snack 200 Gms,Perishable,1
+195,Domestos 5 ltr,Non-Perishable,1
+195,Sasa Washing Soap - 2 Pack,Non-Perishable,1
+195,Car Wax - 1 ltr,Non-Perishable,1
+196,Amul Butter,Perishable,2
+196,Vijay Cheese,Perishable,3
+196,Venky's Chicken Sausage,Perishable,1
+196,Dinshaws 1 Ltr Ice Cream,Perishable,2
+196,Dinshaws 2 Litre Milk,Perishable,1
+196,Sunflower Oil 5 Ltr,Perishable,1
+196,1 Ltr Lichi Squash,Perishable,1
+196,Mango Juice 2 Ltr,Perishable,1
+196,Amul Butter 1 KG,Perishable,1
+196,Cottage Cheese Pack 1 KG,Perishable,1
+196,Singh's Ham 50 gms,Perishable,1
+196,Pepsi 2 Ltr,Perishable,1
+196,Coca Cola 2 Ltr,Perishable,2
+196,Chicken 2 KG Pack,Perishable,2
+196,Onion 5 Kg Pack,Perishable,2
+196,Potato 5 Kg Pack,Perishable,1
+196,Mushroom 250 gm Pack,Perishable,1
+196,Haldiram Snack 200 Gms,Perishable,1
+196,Domestos 5 ltr,Non-Perishable,1
+196,Sasa Washing Soap - 2 Pack,Non-Perishable,3
+197,Amul Butter,Perishable,3
+197,Vijay Cheese,Perishable,3
+197,Venky's Chicken Sausage,Perishable,1
+197,Dinshaws 1 Ltr Ice Cream,Perishable,1
+197,Dinshaws 2 Litre Milk,Perishable,1
+197,Sunflower Oil 5 Ltr,Perishable,1
+197,1 Ltr Lichi Squash,Perishable,1
+197,Mango Juice 2 Ltr,Perishable,2
+197,Amul Butter 1 KG,Perishable,1
+197,Cottage Cheese Pack 1 KG,Perishable,1
+197,Singh's Ham 50 gms,Perishable,1
+197,Pepsi 2 Ltr,Perishable,1
+197,Coca Cola 2 Ltr,Perishable,1
+197,Chicken 2 KG Pack,Perishable,2
+197,Onion 5 Kg Pack,Perishable,3
+197,Potato 5 Kg Pack,Perishable,1
+197,Mushroom 250 gm Pack,Perishable,2
+197,Haldiram Snack 200 Gms,Perishable,1
+197,Domestos 5 ltr,Non-Perishable,2
+197,Amul Butter,Perishable,3
+198,Vijay Cheese,Perishable,1
+198,Venky's Chicken Sausage,Perishable,2
+198,Dinshaws 1 Ltr Ice Cream,Perishable,1
+198,Dinshaws 2 Litre Milk,Perishable,1
+198,Sunflower Oil 5 Ltr,Perishable,1
+198,1 Ltr Lichi Squash,Perishable,1
+198,Mango Juice 2 Ltr,Perishable,1
+198,Amul Butter 1 KG,Perishable,1
+198,Cottage Cheese Pack 1 KG,Perishable,1
+198,Singh's Ham 50 gms,Perishable,1
+198,Pepsi 2 Ltr,Perishable,2
+198,Coca Cola 2 Ltr,Perishable,2
+198,Chicken 2 KG Pack,Perishable,2
+198,Onion 5 Kg Pack,Perishable,1
+198,Potato 5 Kg Pack,Perishable,1
+198,Mushroom 250 gm Pack,Perishable,1
+198,Haldiram Snack 200 Gms,Perishable,1
+199,Amul Butter,Perishable,3
+199,Vijay Cheese,Perishable,3
+199,Venky's Chicken Sausage,Perishable,3
+199,Dinshaws 1 Ltr Ice Cream,Perishable,1
+199,Dinshaws 2 Litre Milk,Perishable,1
+199,Sunflower Oil 5 Ltr,Perishable,1
+199,1 Ltr Lichi Squash,Perishable,1
+199,Mango Juice 2 Ltr,Perishable,1
+199,Amul Butter 1 KG,Perishable,2
+199,Cottage Cheese Pack 1 KG,Perishable,1
+199,Singh's Ham 50 gms,Perishable,1
+199,Pepsi 2 Ltr,Perishable,1
+199,Coca Cola 2 Ltr,Perishable,1
+199,Chicken 2 KG Pack,Perishable,1
+199,Onion 5 Kg Pack,Perishable,2
+199,Potato 5 Kg Pack,Perishable,3
+199,Mushroom 250 gm Pack,Perishable,1
+200,Amul Butter,Perishable,2
+200,Vijay Cheese,Perishable,1
+200,Venky's Chicken Sausage,Perishable,2
+200,Dinshaws 1 Ltr Ice Cream,Perishable,3
+200,Dinshaws 2 Litre Milk,Perishable,1
+200,Sunflower Oil 5 Ltr,Perishable,2
+200,1 Ltr Lichi Squash,Perishable,1
+200,Mango Juice 2 Ltr,Perishable,1
+200,Amul Butter 1 KG,Perishable,1
+200,Cottage Cheese Pack 1 KG,Perishable,1
+200,Singh's Ham 50 gms,Perishable,1
+200,Pepsi 2 Ltr,Perishable,1
+200,Coca Cola 2 Ltr,Perishable,1
+200,Chicken 2 KG Pack,Perishable,1
+200,Onion 5 Kg Pack,Perishable,2
+200,Potato 5 Kg Pack,Perishable,1
+201,Amul Butter,Perishable,1
+201,Vijay Cheese,Perishable,1
+201,Venky's Chicken Sausage,Perishable,1
+201,Dinshaws 1 Ltr Ice Cream,Perishable,1
+201,Dinshaws 2 Litre Milk,Perishable,1
+201,Sunflower Oil 5 Ltr,Perishable,1
+201,1 Ltr Lichi Squash,Perishable,2
+201,Mango Juice 2 Ltr,Perishable,1
+201,Amul Butter 1 KG,Perishable,1
+201,Cottage Cheese Pack 1 KG,Perishable,1
+201,Singh's Ham 50 gms,Perishable,1
+201,Pepsi 2 Ltr,Perishable,2
+201,Coca Cola 2 Ltr,Perishable,1
+201,Chicken 2 KG Pack,Perishable,1
+201,Onion 5 Kg Pack,Perishable,1
+202,Amul Butter,Perishable,1
+202,Vijay Cheese,Perishable,1
+202,Venky's Chicken Sausage,Perishable,1
+202,Dinshaws 1 Ltr Ice Cream,Perishable,1
+202,Dinshaws 2 Litre Milk,Perishable,2
+202,Sunflower Oil 5 Ltr,Perishable,2
+202,1 Ltr Lichi Squash,Perishable,2
+202,Mango Juice 2 Ltr,Perishable,1
+202,Amul Butter 1 KG,Perishable,1
+202,Cottage Cheese Pack 1 KG,Perishable,1
+202,Singh's Ham 50 gms,Perishable,1
+202,Pepsi 2 Ltr,Perishable,3
+202,Coca Cola 2 Ltr,Perishable,1
+202,Chicken 2 KG Pack,Perishable,1
+203,Amul Butter,Perishable,1
+203,Vijay Cheese,Perishable,1
+203,Venky's Chicken Sausage,Perishable,1
+203,Dinshaws 1 Ltr Ice Cream,Perishable,2
+203,Dinshaws 2 Litre Milk,Perishable,1
+203,Sunflower Oil 5 Ltr,Perishable,1
+203,1 Ltr Lichi Squash,Perishable,1
+203,Mango Juice 2 Ltr,Perishable,1
+203,Amul Butter 1 KG,Perishable,1
+203,Cottage Cheese Pack 1 KG,Perishable,2
+203,Singh's Ham 50 gms,Perishable,3
+203,Pepsi 2 Ltr,Perishable,1
+203,Coca Cola 2 Ltr,Perishable,2
+204,Amul Butter,Perishable,1
+204,Vijay Cheese,Perishable,1
+204,Venky's Chicken Sausage,Perishable,1
+204,Dinshaws 1 Ltr Ice Cream,Perishable,1
+204,Dinshaws 2 Litre Milk,Perishable,1
+204,Sunflower Oil 5 Ltr,Perishable,1
+204,1 Ltr Lichi Squash,Perishable,1
+204,Mango Juice 2 Ltr,Perishable,1
+204,Amul Butter 1 KG,Perishable,2
+204,Cottage Cheese Pack 1 KG,Perishable,2
+204,Singh's Ham 50 gms,Perishable,2
+204,Pepsi 2 Ltr,Perishable,1
+205,Amul Butter,Perishable,1
+205,Vijay Cheese,Perishable,1
+205,Venky's Chicken Sausage,Perishable,1
+205,Dinshaws 1 Ltr Ice Cream,Perishable,3
+205,Dinshaws 2 Litre Milk,Perishable,3
+205,Sunflower Oil 5 Ltr,Perishable,3
+205,1 Ltr Lichi Squash,Perishable,1
+205,Mango Juice 2 Ltr,Perishable,1
+205,Amul Butter 1 KG,Perishable,1
+205,Cottage Cheese Pack 1 KG,Perishable,1
+205,Singh's Ham 50 gms,Perishable,1
+206,Amul Butter,Perishable,2
+206,Vijay Cheese,Perishable,1
+206,Venky's Chicken Sausage,Perishable,1
+206,Dinshaws 1 Ltr Ice Cream,Perishable,1
+206,Dinshaws 2 Litre Milk,Perishable,1
+206,Sunflower Oil 5 Ltr,Perishable,1
+206,1 Ltr Lichi Squash,Perishable,2
+206,Mango Juice 2 Ltr,Perishable,3
+206,Amul Butter 1 KG,Perishable,1
+206,Cottage Cheese Pack 1 KG,Perishable,2
+206,Singh's Ham 50 gms,Perishable,1
+207,Amul Butter,Perishable,2
+207,Vijay Cheese,Perishable,3
+207,Venky's Chicken Sausage,Perishable,1
+207,Dinshaws 1 Ltr Ice Cream,Perishable,2
+207,Dinshaws 2 Litre Milk,Perishable,1
+207,Sunflower Oil 5 Ltr,Perishable,1
+207,1 Ltr Lichi Squash,Perishable,1
+207,Mango Juice 2 Ltr,Perishable,1
+207,Amul Butter 1 KG,Perishable,1
+207,Cottage Cheese Pack 1 KG,Perishable,1
+208,Amul Butter,Perishable,1
+208,Vijay Cheese,Perishable,1
+208,Venky's Chicken Sausage,Perishable,2
+208,Dinshaws 1 Ltr Ice Cream,Perishable,2
+208,Dinshaws 2 Litre Milk,Perishable,2
+208,Sunflower Oil 5 Ltr,Perishable,1
+208,1 Ltr Lichi Squash,Perishable,1
+208,Mango Juice 2 Ltr,Perishable,1
+208,Amul Butter 1 KG,Perishable,1
+209,Amul Butter,Perishable,3
+209,Vijay Cheese,Perishable,3
+209,Venky's Chicken Sausage,Perishable,3
+209,Dinshaws 1 Ltr Ice Cream,Perishable,1
+209,Dinshaws 2 Litre Milk,Perishable,1
+209,Sunflower Oil 5 Ltr,Perishable,1
+209,1 Ltr Lichi Squash,Perishable,1
+209,Mango Juice 2 Ltr,Perishable,1
+210,Amul Butter,Perishable,2
+210,Vijay Cheese,Perishable,1
+210,Venky's Chicken Sausage,Perishable,1
+210,Dinshaws 1 Ltr Ice Cream,Perishable,1
+210,Dinshaws 2 Litre Milk,Perishable,1
+210,Sunflower Oil 5 Ltr,Perishable,1
+210,1 Ltr Lichi Squash,Perishable,2
+211,Amul Butter,Perishable,3
+211,Vijay Cheese,Perishable,1
+211,Venky's Chicken Sausage,Perishable,2
+211,Dinshaws 1 Ltr Ice Cream,Perishable,1
+211,Dinshaws 2 Litre Milk,Perishable,2
+211,Sunflower Oil 5 Ltr,Perishable,3
+212,Amul Butter,Perishable,1
+212,Vijay Cheese,Perishable,2
+212,Venky's Chicken Sausage,Perishable,1
+212,Dinshaws 1 Ltr Ice Cream,Perishable,1
+212,Dinshaws 2 Litre Milk,Perishable,1
+213,Amul Butter,Perishable,1
+213,Vijay Cheese,Perishable,1
+213,Venky's Chicken Sausage,Perishable,1
+213,Dinshaws 1 Ltr Ice Cream,Perishable,1
+214,Amul Butter,Perishable,1
+214,Vijay Cheese,Perishable,2
+214,Venky's Chicken Sausage,Perishable,1
+215,Amul Butter,Perishable,1
+215,Vijay Cheese,Perishable,1
+216,Amul Butter,Perishable,1
