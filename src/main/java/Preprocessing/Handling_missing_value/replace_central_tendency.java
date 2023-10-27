@@ -1,16 +1,14 @@
 package Preprocessing.Handling_missing_value;
 
-import tech.tablesaw.api.DoubleColumn;
-import tech.tablesaw.api.IntColumn;
-import tech.tablesaw.api.NumericColumn;
-import tech.tablesaw.api.Table;
+import tech.tablesaw.api.*;
 import tech.tablesaw.columns.Column;
 
-import java.util.ArrayList;
-import java.util.List;
+import java.util.*;
 
 public class replace_central_tendency {
     private List<Double> median,meana;
+    private List<String> colu;
+    private List<Object> modea;
     private NumericColumn<?>[] numericColumns;
     public Table replace_mean(Table data)
     {
@@ -61,6 +59,86 @@ public class replace_central_tendency {
         return data;
     }
 
+    public Table replace_mode(Table table)
+    {
+
+        modea = new ArrayList<>();
+        colu = table.columnNames();
+        for (Column<?> column : table.columns()) {
+
+            if (column.type().toString().equals("DOUBLE")) {
+                Map<Double, Integer> valueCounts = new HashMap<>();
+                double mode = Double.NaN;
+                int maxCount = 0;
+
+                for (Object value : column) {
+                    if (!((Double) value).isNaN()) {
+                        int count = valueCounts.getOrDefault(value, 0) + 1;
+                        valueCounts.put((Double) value, count);
+
+                        if (count > maxCount) {
+                            maxCount = count;
+                            mode = (double) value;
+                        }
+                    }
+                }
+                modea.add(mode);
+                DoubleColumn temp = (DoubleColumn) table.column(column.name());
+                temp.setMissingTo(mode);
+            }
+
+            //integer
+
+            if (column.type().toString().equals("INTEGER")) {
+                Map<Integer, Integer> valueCounts = new HashMap<>();
+                int mode = 0;
+                int maxCount = 0;
+
+                for (Object value : column) {
+                    if ((Integer) value != -2147483648) {
+                        int count = valueCounts.getOrDefault(value, 0) + 1;
+                        valueCounts.put((Integer) value, count);
+
+                        if (count > maxCount) {
+                            maxCount = count;
+                            mode = (int) value;
+                        }
+                    }
+                }
+                modea.add(mode);
+                IntColumn temp = (IntColumn)table.column(column.name());
+                temp.setMissingTo(mode);
+//                data.replaceColumn(column.name(),temp_col);
+
+            }
+
+
+            if (column.type().toString().equals("STRING")) {
+                Map<String, Integer> valueCounts = new HashMap<>();
+                String mode = null;
+                int maxCount = 0;
+                column = column.removeMissing();
+
+                for (Object value : column) {
+                    if (value != null) {
+                        int count = valueCounts.getOrDefault(value, 0) + 1;
+                        valueCounts.put((String) value, count);
+
+                        if (count > maxCount) {
+                            maxCount = count;
+                            mode = (String) value;
+                        }
+                    }
+                }
+                modea.add(mode);
+                StringColumn temp = (StringColumn) table.column(column.name());
+                temp.setMissingTo(mode);
+            }
+        }
+        return table;
+
+    }
+
     public  List<Double> get_median()
     {
         return median;
@@ -70,8 +148,17 @@ public class replace_central_tendency {
         return meana;
     }
 
+    public List<Object>  get_mode(){
+        return modea;
+    }
+
     public NumericColumn<?>[] get_numeric_column()
     {
         return numericColumns;
+    }
+
+    public List<String> get_columns()
+    {
+        return colu;
     }
 }

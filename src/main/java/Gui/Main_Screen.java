@@ -1,4 +1,5 @@
 package Gui;
+import Preprocessing.Handling_missing_value.drop_row_column;
 import Preprocessing.Handling_missing_value.replace_central_tendency;
 import Preprocessing.Loding_file;
 import Preprocessing.data_profiling.profiling;
@@ -7,6 +8,7 @@ import com.google.common.io.Files;
 import com.ibm.icu.impl.UResource;
 import tech.tablesaw.api.NumericColumn;
 import tech.tablesaw.api.Table;
+import tech.tablesaw.columns.Column;
 
 import java.awt.*;
 import java.awt.event.*;
@@ -15,6 +17,12 @@ import java.util.Arrays;
 import java.util.List;
 import java.util.StringJoiner;
 import javax.swing.*;
+import javax.swing.border.LineBorder;
+import javax.swing.plaf.ComboBoxUI;
+import javax.swing.plaf.ComponentUI;
+import javax.swing.plaf.basic.BasicCheckBoxUI;
+import javax.swing.plaf.basic.BasicComboBoxRenderer;
+import javax.swing.plaf.basic.BasicComboBoxUI;
 import javax.swing.table.DefaultTableModel;
 import javax.swing.table.JTableHeader;
 import javax.swing.table.TableModel;
@@ -204,11 +212,11 @@ public class Main_Screen extends JFrame implements ActionListener {
             if (e.getSource() == choose) {
                 if (choose.getSelectedItem() == "Data Preprocessing") {
                     p = new JComboBox<>();
-                    p.setEnabled(false);
                     p.setBounds (800, 180, 200, 25);
                     p.addItem("Data Profiling");
                     p.addItem("Data Structure");
                     p.addItem("Handling Missing Data");
+                    p.setAutoscrolls(true);
                     p.setVisible(false);
                     p.setEnabled(false);
                     p.setFont(fo);
@@ -253,6 +261,14 @@ public class Main_Screen extends JFrame implements ActionListener {
                             DefaultTableModel model = new DefaultTableModel(new display_info().info_data(dataframe),new display_info().info_column(dataframe));
                             main_table.setModel(model);
                             new zoom();
+
+                            dis.setText("\t\t-------REPORT-------\n\n");
+                            dis.append("COLUMNS \t-------->\t MISSING COUNT\n");
+                            for (Column<?> column : dataframe.columns())
+                            {
+                                dis.append(String.valueOf(column.name())+"\t---------->\t"+ column.countMissing()+" / "+dataframe.rowCount()+"\n");
+                            }
+
                             p.setVisible(true);
                             p.setEnabled(true);
 
@@ -290,10 +306,11 @@ public class Main_Screen extends JFrame implements ActionListener {
                             else if(p.getSelectedItem()=="Handling Missing Data")
                             {
                                 p2 = new JComboBox<>();
-                                p2.setBounds(1100,180,200,25);
+                                p2.setBounds(1100,180,240,25);
                                 p2.setFont(fo);
-                                p2.addItem("Drop row");
-                                p2.addItem("Drop column");
+                                p2.addItem("Drop row (60% MISSING)");
+                                p2.addItem("Drop column(60% MISSING)");
+                                p2.addItem("Drop Unwanted Columns");
                                 p2.addItem("Global Constant");
                                 p2.addItem("Mean");
                                 p2.addItem("Median");
@@ -307,6 +324,7 @@ public class Main_Screen extends JFrame implements ActionListener {
                                 p2.setEnabled(true);
                                 p2.setEditable(false);
                                 main_panel.add(p2);
+                                main_panel.repaint();
 
 
                                 p2.addActionListener(new ActionListener() {
@@ -323,10 +341,11 @@ public class Main_Screen extends JFrame implements ActionListener {
                                             NumericColumn<?>[] numeric_colums = mena_cal.get_numeric_column();
 
                                             // displaying
-                                            dis.append("COLUMNS --------> MEAN \n");
+                                            dis.setText("\t\t-------REPORT-------\n\n");
+                                            dis.append("COLUMNS \t\t-------->\t MEAN \n");
                                             for (int i=0;i<mean_values.size();i++)
                                             {
-                                                dis.append(String.valueOf(numeric_colums[i])+"---------->"+ mean_values.get(i)+"\n");
+                                                dis.append(String.valueOf(numeric_colums[i])+"\t---------->\t"+ mean_values.get(i)+"\n");
                                             }
 
                                             // creating data model for the table
@@ -345,10 +364,32 @@ public class Main_Screen extends JFrame implements ActionListener {
                                             NumericColumn<?>[] numeric_colums = median_cal.get_numeric_column();
 
 //                                            dis.setText("COLUMNS: \n"+Arrays.toString(numeric_colums)+"\nMedians: \n"+median_values.toString());
-                                            dis.append("COLUMNS --------> MEDIAN \n");
+                                            dis.setText("\t\t-------REPORT-------\n\n");
+                                            dis.append("COLUMNS \t\t-------->\t MEDIAN \n");
                                             for (int i=0;i<median_values.size();i++)
                                             {
-                                                dis.append(String.valueOf(numeric_colums[i])+"---------->"+ median_values.get(i)+"\n");
+                                                dis.append(String.valueOf(numeric_colums[i])+"\t---------->\t"+ median_values.get(i)+"\n");
+                                            }
+
+                                            DefaultTableModel model = new DefaultTableModel(new display_info().info_data(dataframe),new display_info().info_column(dataframe));
+                                            main_table.setModel(model);
+                                            new zoom();
+
+                                        }
+                                        if(p2.getSelectedItem()=="Mode")
+                                        {
+                                            replace_central_tendency mode_cal = new replace_central_tendency();
+                                            dataframe = mode_cal.replace_mode(dataframe);
+
+                                            List<Object>  mode_values =mode_cal.get_mode();
+                                            List<String>  colu = mode_cal.get_columns();
+
+
+                                            dis.setText("\t\t-------REPORT-------\n\n");
+                                            dis.append("COLUMNS \t-------->\t MODE \n");
+                                            for (int i=0;i<mode_values.size();i++)
+                                            {
+                                                dis.append(colu.get(i) +"\t---------->\t"+ mode_values.get(i)+"\n");
                                             }
 
                                             DefaultTableModel model = new DefaultTableModel(new display_info().info_data(dataframe),new display_info().info_column(dataframe));
@@ -358,25 +399,61 @@ public class Main_Screen extends JFrame implements ActionListener {
                                         }
 
 
+                                        if(p2.getSelectedItem()=="Drop row")
+                                        {
+                                            drop_row_column dr  = new drop_row_column();
+                                            dataframe=dr.drop_row(dataframe);
+
+                                            DefaultTableModel model = new DefaultTableModel(new display_info().info_data(dataframe),new display_info().info_column(dataframe));
+                                            main_table.setModel(model);
+                                            new zoom();
+
+                                        }
+
+                                        if(p2.getSelectedItem()=="Drop column")
+                                        {
+                                            drop_row_column dr  = new drop_row_column();
+                                            dataframe=dr.drop_column(dataframe);
+
+                                            DefaultTableModel model = new DefaultTableModel(new display_info().info_data(dataframe),new display_info().info_column(dataframe));
+                                            main_table.setModel(model);
+                                            new zoom();
+
+
+                                        }
+
+
+                                        if(p2.getSelectedItem()=="Drop Unwanted Columns")
+                                        {
+                                            JComboBox<JCheckBox> p3 = new JComboBox<>();
+                                            p3.setBounds(1211,230,200,25);
+
+                                            for (Column<?> column : dataframe.columns()) {
+                                                JCheckBox m = new JCheckBox(column.name());
+                                                m.setUI(new BasicCheckBoxUI());
+                                                p3.addItem(m);
+                                                p3.setRenderer(new DefaultListCellRenderer());
+                                            }
+
+                                            main_panel.add(p3);
+                                            main_panel.repaint();
 
 
 
-
-
-
+////                                            dataframe= dr.drop_column_manual(dataframe,);
+//                                            DefaultTableModel model = new DefaultTableModel(new display_info().info_data(dataframe),new display_info().info_column(dataframe));
+//                                            main_table.setModel(model);
+//                                            new zoom();
+                                        }
 
 
                                     }
                                 });
 
 
-
-
-
                             }
                         }
                     });
-
 
 
                 }
